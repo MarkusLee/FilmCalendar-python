@@ -1,31 +1,23 @@
-import util
-from iCal import iCal
-from reptile import data
-import os
+from cal import Cal
+from data import Data
+from sites import name2location
 
-'''
-step 1 通过用户名获取订阅的番组id
-step 2 通过番组id获取章节信息
-step 3 将信息进行整合导出到ics
-'''
+if __name__ == "__main__":
 
-if __name__ == '__main__':
+    d = Data()
+    d.fetch()
+    print(d.data)
+    for name in d.data.keys():
+        c = Cal(ftname=name)
+        for e in d.data[name]:
+            c.setEvent(
+                summary=e["film_name"],
+                dtstart=e["start_datetime"],
+                # dtend=e.get("end_datetime", None),
+                dtend=None,
+                uid=e["uid"],
+                location=name2location[name],
+                descripion=e["description"],
+            )
 
-    userid = os.environ["USERID"]
-    data = data(userid)
-    # step 1 通过用户名获取订阅的番组id
-    data.getsubjects()
-    # step 2 通过番组id获取章节信息
-    data.geteps()
-    # 将信息进行整合导出到ics
-    icl = iCal()
-    for key in data.subjects:
-        for i in data.epdict[key.id]:
-            # 判定日历格式是否正确
-            if len(i.airdate) == 10:
-                icl.setEvent(summary=util.genSummary(key.name, key.name_cn, i.ep),
-                             time=util.genDate(i.airdate),
-                             uuid=util.genUUID(key.id, i.ep, userid),
-                             descripion=util.genDec(key.summary, i.name_cn))
-
-    icl.write()
+        c.write()

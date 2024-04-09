@@ -1,23 +1,12 @@
-from datetime import datetime, date
+from datetime import datetime, timedelta
 
 
-def genUUID(projectId, epsId, userid) -> str:
-    return str(projectId) + "-" +str(epsId) + "-" + str(userid)
+def getUID(name, film_name, start_datetime) -> str:
+    return str(name) + "-" +str(film_name) + "-" + str(start_datetime)
 
 
-def genSummary(name, name_cn, ep) -> str:
-    if name_cn != "":
-        return name_cn + " " + str(ep)
-    else:
-        return name + " " + str(ep)
-
-
-def genDec(summary, epname) -> str:
-    str(epname).replace("/n","\n")
-    return "「"+epname+"」" + "\n" + "\n"+ "\n"+ summary
-
-
-def genDate(time) -> date:
-    format = "%Y-%m-%d"
-    date = datetime.strptime(time, format)
-    return date.date()
+def getDefaultEnd(dt: datetime, minutes=120) -> datetime:
+    # add 2 hours
+    dtend = dt + timedelta(minutes=minutes)
+    return dtend
+    

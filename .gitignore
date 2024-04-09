@@ -9,3 +9,5 @@ build/
 
 # GitHub
 .DS_Store
+
+*.html

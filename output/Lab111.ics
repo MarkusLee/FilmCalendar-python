@@ -1,0 +1,3295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:FilmiCal
+X-APPLE-CALENDAR-COLOR:#F699C
+X-WR-CALNAME:Lab111
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+SUMMARY:Le Testament d'Orphée
+DTSTART;VALUE=DATE:20240409T100000
+DTEND;VALUE=DATE:20240409T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:269a5022-d3bd-40cd-8da9-363b3634df3f
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/le-test
+ ament-dorphee/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/996405\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240409T101000
+DTEND;VALUE=DATE:20240409T101000
+DTSTAMP;VALUE=DATE:20240409
+UID:50180ac0-c499-46c8-a734-cb56a8f2c904
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/996415\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;VALUE=DATE:20240409T101500
+DTEND;VALUE=DATE:20240409T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:00b205f3-2e76-4f63-b725-d8d260a93ec4
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/oppenhe
+ imer/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/996368\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240409T103000
+DTEND;VALUE=DATE:20240409T103000
+DTSTAMP;VALUE=DATE:20240409
+UID:fb82f8e5-b862-4e34-8015-1fa917d6731e
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/994209\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive My Car
+DTSTART;VALUE=DATE:20240409T120000
+DTEND;VALUE=DATE:20240409T120000
+DTSTAMP;VALUE=DATE:20240409
+UID:3827f4db-aba6-49b3-9671-0144572cabf6
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/drive-m
+ y-car/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websh
+ op/steps/start/show/996404\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sick Of Myself
+DTSTART;VALUE=DATE:20240409T121500
+DTEND;VALUE=DATE:20240409T121500
+DTSTAMP;VALUE=DATE:20240409
+UID:e3482be1-b0f4-4b8c-b02e-3381297c0e45
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/sick-of
+ -myself/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/996413\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240409T134500
+DTEND;VALUE=DATE:20240409T134500
+DTSTAMP;VALUE=DATE:20240409
+UID:2d71e3c2-3ea9-4b1f-93bf-3edb9f753cff
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/996365\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240409T140000
+DTEND;VALUE=DATE:20240409T140000
+DTSTAMP;VALUE=DATE:20240409
+UID:1f5eb368-c11d-45af-b28b-62ceb85d3d49
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/994075\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Misérables
+DTSTART;VALUE=DATE:20240409T141500
+DTEND;VALUE=DATE:20240409T141500
+DTSTAMP;VALUE=DATE:20240409
+UID:7b6124b5-2c7d-46b4-9907-139a4cda9169
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-mis
+ erables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/994092\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Giant
+DTSTART;VALUE=DATE:20240409T154500
+DTEND;VALUE=DATE:20240409T154500
+DTSTAMP;VALUE=DATE:20240409
+UID:fcde508c-5801-4bc1-94e2-d7b8fb214a17
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/blue-gi
+ ant/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/994103\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240409T161500
+DTEND;VALUE=DATE:20240409T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:118f95f6-809a-4f66-aa5c-168e6bc0bc9e
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/994070\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Rock West
+DTSTART;VALUE=DATE:20240409T163000
+DTEND;VALUE=DATE:20240409T163000
+DTSTAMP;VALUE=DATE:20240409
+UID:9cac684a-1617-41f6-976c-6c1af56c859d
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/red-roc
+ k-west/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/994098\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240409T164500
+DTEND;VALUE=DATE:20240409T164500
+DTSTAMP;VALUE=DATE:20240409
+UID:60b05b44-6a5d-42e2-9627-62fb53ead2d1
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996362\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240409T181500
+DTEND;VALUE=DATE:20240409T181500
+DTSTAMP;VALUE=DATE:20240409
+UID:3462ded2-2477-4c29-873f-8d0565c745cf
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/996395\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240409T190000
+DTEND;VALUE=DATE:20240409T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:7976f7d5-d434-4332-ae08-582ffef60ef1
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/993485\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240409T193000
+DTEND;VALUE=DATE:20240409T193000
+DTSTAMP;VALUE=DATE:20240409
+UID:9b4529ec-20a2-4b13-8d03-dca9efc01e23
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/994080\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rock
+DTSTART;VALUE=DATE:20240409T204500
+DTEND;VALUE=DATE:20240409T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:8131d75f-37aa-42f7-9107-14f1e25c48b2
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/the-roc
+ k/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/s
+ teps/start/show/994086\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptation. (4K Restoration)
+DTSTART;VALUE=DATE:20240409T210000
+DTEND;VALUE=DATE:20240409T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:a2551428-c39d-4239-9544-ca26ffd57dbb
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/adaptat
+ ion/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996403\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240409T211500
+DTEND;VALUE=DATE:20240409T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:426343ad-a782-4db8-8b1a-f036594e4156
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/993832\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240409T213000
+DTEND;VALUE=DATE:20240409T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:cb758bca-0d4a-41c0-b077-80b3ced9cd53
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/993503\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptation. (4K Restoration)
+DTSTART;VALUE=DATE:20240410T100000
+DTEND;VALUE=DATE:20240410T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:7420a9e9-8a12-4542-84f8-c293ceb56eb8
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/adaptat
+ ion/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996416\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;VALUE=DATE:20240410T101500
+DTEND;VALUE=DATE:20240410T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:0e6a8a28-5f07-40bf-b963-19ef682a2f3f
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/oppenhe
+ imer/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/996369\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holy Mountain (4K Restoration)
+DTSTART;VALUE=DATE:20240410T103000
+DTEND;VALUE=DATE:20240410T103000
+DTSTAMP;VALUE=DATE:20240409
+UID:0468e6bf-3001-46d9-8578-b7c385685d4a
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-hol
+ y-mountain-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/n
+ l/flow_configs/webshop/steps/start/show/996410\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240410T104500
+DTEND;VALUE=DATE:20240410T104500
+DTSTAMP;VALUE=DATE:20240409
+UID:d54391ee-634a-4333-9757-caa1d1303ccf
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/994210\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leaving Las Vegas
+DTSTART;VALUE=DATE:20240410T122000
+DTEND;VALUE=DATE:20240410T122000
+DTSTAMP;VALUE=DATE:20240409
+UID:b53b6e0c-e2dc-44ec-b0c8-3e8faa739644
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/leaving
+ -las-vegas/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/
+ webshop/steps/start/show/1000442\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asako I & II
+DTSTART;VALUE=DATE:20240410T131500
+DTEND;VALUE=DATE:20240410T131500
+DTSTAMP;VALUE=DATE:20240409
+UID:1bcd1666-3e0a-4c10-8183-2c9e95b6b7f3
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/asako-i
+ -ii/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996408\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240410T140000
+DTEND;VALUE=DATE:20240410T140000
+DTSTAMP;VALUE=DATE:20240409
+UID:40bb37a8-3f49-496a-a9c6-9dff1b26756a
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/994076\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240410T141500
+DTEND;VALUE=DATE:20240410T141500
+DTSTAMP;VALUE=DATE:20240409
+UID:f893c7bc-b731-4cac-892c-22be73b6f5c4
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996363\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sick Of Myself
+DTSTART;VALUE=DATE:20240410T144500
+DTEND;VALUE=DATE:20240410T144500
+DTSTAMP;VALUE=DATE:20240409
+UID:14c3ae7c-8ada-4c18-8d45-26619befc1bb
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/sick-of
+ -myself/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/994089\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Giant
+DTSTART;VALUE=DATE:20240410T154500
+DTEND;VALUE=DATE:20240410T154500
+DTSTAMP;VALUE=DATE:20240409
+UID:7d215057-be89-4f5f-85fb-cefeefe5c3e3
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/blue-gi
+ ant/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/994104\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240410T161500
+DTEND;VALUE=DATE:20240410T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:b317baba-2da7-4ee7-90a5-b77826d2af66
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/994071\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240410T163000
+DTEND;VALUE=DATE:20240410T163000
+DTSTAMP;VALUE=DATE:20240409
+UID:a61010b2-9c65-44a4-ba6b-fabd1feec740
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/996366\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Lieutenant: Port Of Call - New Orleans
+DTSTART;VALUE=DATE:20240410T164500
+DTEND;VALUE=DATE:20240410T164500
+DTSTAMP;VALUE=DATE:20240409
+UID:e15b3398-66c7-4353-9c89-9581658bab0b
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/bad-lie
+ utenant-port-of-call-new-orleans/\nTickets: https://tickets.lab111.nl/labc
+ inema/nl/flow_configs/webshop/steps/start/show/994085\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240410T181500
+DTEND;VALUE=DATE:20240410T181500
+DTSTAMP;VALUE=DATE:20240409
+UID:45066c2b-6178-40e7-81a5-e7ebbac8ba2b
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/996406\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240410T190000
+DTEND;VALUE=DATE:20240410T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:d3df819c-2b9f-4c7b-aeb0-56334d1bf14f
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/993685\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240410T191500
+DTEND;VALUE=DATE:20240410T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:011c9ad5-b414-4aa0-a605-f9f7ca0be5c2
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-ind
+ esirables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/w
+ ebshop/steps/start/show/993694\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240410T193000
+DTEND;VALUE=DATE:20240410T193000
+DTSTAMP;VALUE=DATE:20240409
+UID:c7dcd5ba-8c74-47ec-b459-69892c73a3cf
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/993708\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Face/Off
+DTSTART;VALUE=DATE:20240410T210000
+DTEND;VALUE=DATE:20240410T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:bab78a7a-124f-4b20-af4d-3933f1748a0b
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/face-of
+ f/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/s
+ teps/start/show/996407\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240410T211500
+DTEND;VALUE=DATE:20240410T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:8385be00-f508-417a-b71b-a3496dae677f
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/993829\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240410T213000
+DTEND;VALUE=DATE:20240410T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:0e8f288e-f843-4fad-ad4d-d051e9859f2f
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/993505\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss
+DTSTART;VALUE=DATE:20240410T214500
+DTEND;VALUE=DATE:20240410T214500
+DTSTAMP;VALUE=DATE:20240409
+UID:1f421d3f-cf49-4796-86da-1cfd1f4d497d
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/vampire
+ s-kiss/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/994096\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240411T123000
+DTEND;VALUE=DATE:20240411T123000
+DTSTAMP;VALUE=DATE:20240409
+UID:6acfd0ea-414a-4136-bc02-ef9fbffd2b8c
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997248\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240411T143000
+DTEND;VALUE=DATE:20240411T143000
+DTSTAMP;VALUE=DATE:20240409
+UID:89c23d8b-c3ea-4fe4-ac46-105c27e6538d
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987616\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive My Car
+DTSTART;VALUE=DATE:20240411T153000
+DTEND;VALUE=DATE:20240411T153000
+DTSTAMP;VALUE=DATE:20240409
+UID:2e226251-7b29-4036-8190-fc2c30020687
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/drive-m
+ y-car/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websh
+ op/steps/start/show/999272\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part One
+DTSTART;VALUE=DATE:20240411T160000
+DTEND;VALUE=DATE:20240411T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:bebeb50c-ad12-4b85-b89b-3bca09603151
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-one/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999262\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptation. (4K Restoration)
+DTSTART;VALUE=DATE:20240411T162500
+DTEND;VALUE=DATE:20240411T162500
+DTSTAMP;VALUE=DATE:20240409
+UID:ed78e067-0b4f-42fe-be15-a0781a9b9b4c
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/adaptat
+ ion/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999255\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240411T164500
+DTEND;VALUE=DATE:20240411T164500
+DTSTAMP;VALUE=DATE:20240409
+UID:cd7b82ad-a27f-4660-a128-a94972d3dbe6
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987615\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240411T184500
+DTEND;VALUE=DATE:20240411T184500
+DTSTAMP;VALUE=DATE:20240409
+UID:ddf8758b-4d70-4780-bca2-0ad4b59ce8ca
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-ind
+ esirables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/w
+ ebshop/steps/start/show/999395\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240411T190000
+DTEND;VALUE=DATE:20240411T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:c4237fcc-2040-47f8-8af9-ab66930235f1
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997279\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240411T191500
+DTEND;VALUE=DATE:20240411T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:a2ca4c06-ee91-450e-a5d6-d2501880fc49
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987594\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snake Eyes
+DTSTART;VALUE=DATE:20240411T205500
+DTEND;VALUE=DATE:20240411T205500
+DTSTAMP;VALUE=DATE:20240409
+UID:7aa0b072-543a-4c28-84fa-595eecda7a9c
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/snake-e
+ yes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999248\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240411T210000
+DTEND;VALUE=DATE:20240411T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:db18c773-fc10-4793-b39a-4156e84e8de7
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/997287\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240411T212500
+DTEND;VALUE=DATE:20240411T212500
+DTSTAMP;VALUE=DATE:20240409
+UID:0d306230-b7be-455d-bfcf-07906971cbe6
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/996624\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240411T213000
+DTEND;VALUE=DATE:20240411T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:16fb0eb4-e82d-4c71-9de6-f5df647e6d7d
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987593\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pig
+DTSTART;VALUE=DATE:20240412T100500
+DTEND;VALUE=DATE:20240412T100500
+DTSTAMP;VALUE=DATE:20240409
+UID:22744a78-1c22-477b-9413-47e2260608f2
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/pig/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/999285\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240412T101000
+DTEND;VALUE=DATE:20240412T101000
+DTSTAMP;VALUE=DATE:20240409
+UID:897f5e3c-81f3-40eb-bf22-be4bb26d98b0
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/996554\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Institute Benjamenta
+DTSTART;VALUE=DATE:20240412T101500
+DTEND;VALUE=DATE:20240412T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:817b864b-e0d7-45d4-b283-ec8016a4ec8b
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/institu
+ te-benjamenta/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/999369\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holy Mountain (4K Restoration)
+DTSTART;VALUE=DATE:20240412T110000
+DTEND;VALUE=DATE:20240412T110000
+DTSTAMP;VALUE=DATE:20240409
+UID:36b236ae-f248-4496-89dd-6feaee78d7e0
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-hol
+ y-mountain-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/n
+ l/flow_configs/webshop/steps/start/show/999912\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240412T120000
+DTEND;VALUE=DATE:20240412T120000
+DTSTAMP;VALUE=DATE:20240409
+UID:5302aa9b-b4f8-41df-a040-e59e7bc028f7
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/999290\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240412T123000
+DTEND;VALUE=DATE:20240412T123000
+DTSTAMP;VALUE=DATE:20240409
+UID:a8f5f7b4-a8e1-4101-8d49-b21150ae86a8
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/997249\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240412T124500
+DTEND;VALUE=DATE:20240412T124500
+DTSTAMP;VALUE=DATE:20240409
+UID:fbf2e017-5492-4d7c-a24a-92bc629a08d6
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996552\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240412T133000
+DTEND;VALUE=DATE:20240412T133000
+DTSTAMP;VALUE=DATE:20240409
+UID:d8888b89-18f3-4152-956b-923d8a0b553d
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/999268\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Rock West
+DTSTART;VALUE=DATE:20240412T140000
+DTEND;VALUE=DATE:20240412T140000
+DTSTAMP;VALUE=DATE:20240409
+UID:daac41aa-2129-4059-baa0-734ac4bcb567
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/red-roc
+ k-west/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999284\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240412T144500
+DTEND;VALUE=DATE:20240412T144500
+DTSTAMP;VALUE=DATE:20240409
+UID:c1f25c81-a002-42dc-b113-f8631d04ad10
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/997243\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240412T150000
+DTEND;VALUE=DATE:20240412T150000
+DTSTAMP;VALUE=DATE:20240409
+UID:dd6be282-4fd5-4538-a564-40ca09a4d626
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/996550\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Lieutenant: Port Of Call - New Orleans
+DTSTART;VALUE=DATE:20240412T160500
+DTEND;VALUE=DATE:20240412T160500
+DTSTAMP;VALUE=DATE:20240409
+UID:a627f9b0-8865-41ef-8c8f-453407c218d8
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/bad-lie
+ utenant-port-of-call-new-orleans/\nTickets: https://tickets.lab111.nl/labc
+ inema/nl/flow_configs/webshop/steps/start/show/999283\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wheel Of Fortune And Fantasy
+DTSTART;VALUE=DATE:20240412T161500
+DTEND;VALUE=DATE:20240412T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:c8a88559-9b82-4f59-9062-4638e253609b
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/wheel-o
+ f-fortune-and-fantasy/\nTickets: https://tickets.lab111.nl/labcinema/nl/fl
+ ow_configs/webshop/steps/start/show/999269\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240412T164500
+DTEND;VALUE=DATE:20240412T164500
+DTSTAMP;VALUE=DATE:20240409
+UID:b0b3830e-7913-4386-b44d-9c09e3c8b63c
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/996629\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240412T171500
+DTEND;VALUE=DATE:20240412T171500
+DTSTAMP;VALUE=DATE:20240409
+UID:5f084aa6-ee2a-4d6a-8641-1942198a5151
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987617\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240412T183000
+DTEND;VALUE=DATE:20240412T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:005a3fed-5ff7-4d81-bf29-11a5a567e840
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/999907\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240412T184500
+DTEND;VALUE=DATE:20240412T184500
+DTSTAMP;VALUE=DATE:20240409
+UID:5d4943cf-6392-4f24-81d1-26d4a59f6453
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997280\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240412T190000
+DTEND;VALUE=DATE:20240412T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:c02cb89c-6c7c-4f5c-9bfd-02479c2e3e6b
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987597\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faust
+DTSTART;VALUE=DATE:20240412T193000
+DTEND;VALUE=DATE:20240412T193000
+DTSTAMP;VALUE=DATE:20240409
+UID:9353338e-6872-4075-ace7-bb3399344fd8
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/faust/\
+ nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/step
+ s/start/show/981224\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240412T204500
+DTEND;VALUE=DATE:20240412T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:bd4fefae-8678-483e-b022-b514d4e09323
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/997286\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rock
+DTSTART;VALUE=DATE:20240412T210000
+DTEND;VALUE=DATE:20240412T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:8201261e-afbf-434c-b9c5-0cc4bca3131f
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/the-roc
+ k/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/s
+ teps/start/show/999246\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240412T211500
+DTEND;VALUE=DATE:20240412T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:9627593c-7918-4fc2-b862-c5ec409318c9
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987598\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tetsuo: The Iron Man
+DTSTART;VALUE=DATE:20240412T213000
+DTEND;VALUE=DATE:20240412T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:65ee22d1-8356-498a-a002-50ab80c8e71f
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/tetsuo-
+ the-iron-man/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_config
+ s/webshop/steps/start/show/981226\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptation. (4K Restoration)
+DTSTART;VALUE=DATE:20240413T100000
+DTEND;VALUE=DATE:20240413T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:b93c845d-387d-428b-b742-a70f9e0afe01
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/adaptat
+ ion/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999355\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;VALUE=DATE:20240413T100500
+DTEND;VALUE=DATE:20240413T100500
+DTSTAMP;VALUE=DATE:20240409
+UID:bcef366f-1451-4103-bf72-ff57c41635d0
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/oppenhe
+ imer/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/996557\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240413T101500
+DTEND;VALUE=DATE:20240413T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:fd033da5-9c85-4115-9e3d-6bea225edd66
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997246\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240413T103000
+DTEND;VALUE=DATE:20240413T103000
+DTSTAMP;VALUE=DATE:20240409
+UID:67e8a17e-8932-4319-8916-8e51e770e6b3
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/999305\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss
+DTSTART;VALUE=DATE:20240413T122000
+DTEND;VALUE=DATE:20240413T122000
+DTSTAMP;VALUE=DATE:20240409
+UID:66e59f10-2970-4376-8bf6-24ed66bf1f93
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/vampire
+ s-kiss/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999350\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive My Car
+DTSTART;VALUE=DATE:20240413T131500
+DTEND;VALUE=DATE:20240413T131500
+DTSTAMP;VALUE=DATE:20240409
+UID:cd37b215-ef65-471c-babd-2e97da379157
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/drive-m
+ y-car/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websh
+ op/steps/start/show/999317\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240413T133000
+DTEND;VALUE=DATE:20240413T133000
+DTSTAMP;VALUE=DATE:20240409
+UID:93dfff5c-54fc-4bc8-8c04-f5547e55360a
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/996560\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240413T134500
+DTEND;VALUE=DATE:20240413T134500
+DTSTAMP;VALUE=DATE:20240409
+UID:9d11303a-497d-4be8-9dd8-49704628d4ad
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/997242\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild At Heart
+DTSTART;VALUE=DATE:20240413T143000
+DTEND;VALUE=DATE:20240413T143000
+DTSTAMP;VALUE=DATE:20240409
+UID:ae2f83c3-42cc-49cc-88b0-c09e5c74a35b
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/wild-at
+ -heart/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999345\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Meglio Gioventù
+DTSTART;VALUE=DATE:20240413T160000
+DTEND;VALUE=DATE:20240413T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:26a14da9-4dca-433e-9ae4-07918734fb88
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/la-megl
+ io-gioventu/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Empieza El Baile
+DTSTART;VALUE=DATE:20240413T160000
+DTEND;VALUE=DATE:20240413T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:58217fd6-441f-48be-baf9-c4075a00003e
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-empieza-el-baile/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asako I & II
+DTSTART;VALUE=DATE:20240413T164500
+DTEND;VALUE=DATE:20240413T164500
+DTSTAMP;VALUE=DATE:20240409
+UID:6ce763b3-98cc-4cea-b052-508608e613d9
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/asako-i
+ -ii/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999310\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240413T170000
+DTEND;VALUE=DATE:20240413T170000
+DTSTAMP;VALUE=DATE:20240409
+UID:7b72c0c7-aa33-495c-9153-1ba02e0eb385
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/999289\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Disco\, Ibiza\, Locomía
+DTSTART;VALUE=DATE:20240413T183000
+DTEND;VALUE=DATE:20240413T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:f7a64723-23f1-416e-b643-1ddeebd2f337
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-disco-ibiza-locomia/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240413T190000
+DTEND;VALUE=DATE:20240413T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:f5c66b08-e987-4c67-b2ae-515ac0c66b90
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987595\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Testament d'Orphée
+DTSTART;VALUE=DATE:20240413T191500
+DTEND;VALUE=DATE:20240413T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:cf769288-d1c0-42a5-b06e-377c0ef85ca7
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/le-test
+ ament-dorphee/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/981228\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240413T210500
+DTEND;VALUE=DATE:20240413T210500
+DTSTAMP;VALUE=DATE:20240409
+UID:bfd710a3-7292-453c-bb4e-afb1d3b512b2
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997281\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240413T211500
+DTEND;VALUE=DATE:20240413T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:47ff58b5-938d-4fad-adb2-65623621804f
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987596\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Te Estoy Amando Locamente incl. Q
+ &A
+DTSTART;VALUE=DATE:20240413T211500
+DTEND;VALUE=DATE:20240413T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:52f4cf2f-8ad9-4db2-8873-09c3e76b0b25
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-te-estoy-amando-locamente-incl-qa/\nTickets: None
+ \n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;VALUE=DATE:20240414T100000
+DTEND;VALUE=DATE:20240414T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:f80fc6a0-b0fd-4487-9903-134bb96cd3b9
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/oppenhe
+ imer/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/996558\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive My Car
+DTSTART;VALUE=DATE:20240414T101500
+DTEND;VALUE=DATE:20240414T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:ee1315fc-4d79-45f9-be8c-3fa97daf69ff
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/drive-m
+ y-car/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websh
+ op/steps/start/show/999952\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240414T103000
+DTEND;VALUE=DATE:20240414T103000
+DTSTAMP;VALUE=DATE:20240409
+UID:d4f35bf8-22b1-4f79-9acd-c854a0524be1
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997247\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss
+DTSTART;VALUE=DATE:20240414T110000
+DTEND;VALUE=DATE:20240414T110000
+DTSTAMP;VALUE=DATE:20240409
+UID:20d5a0ed-d86a-40d5-a15f-fafcf1fbc18a
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/vampire
+ s-kiss/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999349\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rock
+DTSTART;VALUE=DATE:20240414T131500
+DTEND;VALUE=DATE:20240414T131500
+DTSTAMP;VALUE=DATE:20240409
+UID:690a5b47-968c-47ef-95e0-d6a82f35876e
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/the-roc
+ k/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/s
+ teps/start/show/1000443\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240414T133000
+DTEND;VALUE=DATE:20240414T133000
+DTSTAMP;VALUE=DATE:20240409
+UID:3bc10110-d7ae-49bf-b364-5abd7e7dcf33
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/996559\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240414T134500
+DTEND;VALUE=DATE:20240414T134500
+DTSTAMP;VALUE=DATE:20240409
+UID:7d440928-4991-46aa-bac8-f1fd578a1313
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/997244\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part One
+DTSTART;VALUE=DATE:20240414T154500
+DTEND;VALUE=DATE:20240414T154500
+DTSTAMP;VALUE=DATE:20240409
+UID:cc1af258-0363-45fb-8b31-b20a9f7b2c81
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-one/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997237\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Cerrar Los Ojos
+DTSTART;VALUE=DATE:20240414T160000
+DTEND;VALUE=DATE:20240414T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:57b90b2f-da3d-4705-8912-ed31ff0ee661
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-cerrar-los-ojos/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild At Heart
+DTSTART;VALUE=DATE:20240414T160000
+DTEND;VALUE=DATE:20240414T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:da0fc0af-5488-49d7-b60f-e2ca2d1c21a9
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/wild-at
+ -heart/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999339\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240414T161500
+DTEND;VALUE=DATE:20240414T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:e6ed737d-d020-4211-89dd-8ca003426add
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/999954\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240414T183000
+DTEND;VALUE=DATE:20240414T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:b836f5a5-3751-456f-9747-a6514fc2a1f3
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/999908\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Robot Dreams
+DTSTART;VALUE=DATE:20240414T190000
+DTEND;VALUE=DATE:20240414T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:460c54db-9a43-4b79-8f96-aa4a2b48e2a1
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-robot-dreams/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240414T190000
+DTEND;VALUE=DATE:20240414T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:cc36c8c0-2efe-4f16-8929-a1c563867138
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997282\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240414T191500
+DTEND;VALUE=DATE:20240414T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:4322c2c2-7d4f-4ac6-aaa5-019d7a18f618
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987607\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Face/Off
+DTSTART;VALUE=DATE:20240414T204500
+DTEND;VALUE=DATE:20240414T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:d5b857f0-ecf1-4fa8-bbb5-7744a8685c8a
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/face-of
+ f/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/s
+ teps/start/show/999301\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240414T210000
+DTEND;VALUE=DATE:20240414T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:067b7b4a-efc2-4d20-b23d-8262693c0bda
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/997289\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240414T211500
+DTEND;VALUE=DATE:20240414T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:d897b909-5cbe-43f8-a6b4-879606c02555
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987600\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240414T213000
+DTEND;VALUE=DATE:20240414T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:da8519d4-1aaf-4617-bff6-e740b81b79d4
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/996628\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240415T100000
+DTEND;VALUE=DATE:20240415T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:c2caf308-3f53-46d6-81fb-58854b69751f
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/999348\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Institute Benjamenta
+DTSTART;VALUE=DATE:20240415T100500
+DTEND;VALUE=DATE:20240415T100500
+DTSTAMP;VALUE=DATE:20240409
+UID:85b83c8a-2d27-4880-b5eb-35c2c23562ec
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/institu
+ te-benjamenta/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/999935\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240415T101000
+DTEND;VALUE=DATE:20240415T101000
+DTSTAMP;VALUE=DATE:20240409
+UID:51f3090c-e66f-4614-9538-5f41cc814f39
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996565\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptation. (4K Restoration)
+DTSTART;VALUE=DATE:20240415T120000
+DTEND;VALUE=DATE:20240415T120000
+DTSTAMP;VALUE=DATE:20240409
+UID:dc33dd31-c8f6-4efe-b168-66fd872335bd
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/adaptat
+ ion/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999995\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240415T121500
+DTEND;VALUE=DATE:20240415T121500
+DTSTAMP;VALUE=DATE:20240409
+UID:7c0e9c3a-6d21-4175-a6cd-ad4bdd7dd0c4
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/999934\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240415T122500
+DTEND;VALUE=DATE:20240415T122500
+DTSTAMP;VALUE=DATE:20240409
+UID:578eaf9f-1a87-49ab-8b55-623e6f70b4a8
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/996564\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240415T133000
+DTEND;VALUE=DATE:20240415T133000
+DTSTAMP;VALUE=DATE:20240409
+UID:24641253-bed3-4c47-a9d2-3647c138510d
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/999307\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Misérables
+DTSTART;VALUE=DATE:20240415T142000
+DTEND;VALUE=DATE:20240415T142000
+DTSTAMP;VALUE=DATE:20240409
+UID:91878f72-edd4-4eeb-a507-a612deacced1
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-mis
+ erables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/999294\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240415T144000
+DTEND;VALUE=DATE:20240415T144000
+DTSTAMP;VALUE=DATE:20240409
+UID:463e94fc-a579-476c-b1d8-9b4a773d102e
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987624\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240415T144500
+DTEND;VALUE=DATE:20240415T144500
+DTSTAMP;VALUE=DATE:20240409
+UID:7d9452ac-9d50-4ad6-a92a-5b84a05fdf31
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997240\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asako I & II
+DTSTART;VALUE=DATE:20240415T161500
+DTEND;VALUE=DATE:20240415T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:2033bcd8-be66-4824-aae0-a9795c7c2df6
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/asako-i
+ -ii/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999311\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snake Eyes
+DTSTART;VALUE=DATE:20240415T163000
+DTEND;VALUE=DATE:20240415T163000
+DTSTAMP;VALUE=DATE:20240409
+UID:26941cec-3e53-432d-9612-7aca7aa0f7e4
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/snake-e
+ yes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999340\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240415T170000
+DTEND;VALUE=DATE:20240415T170000
+DTSTAMP;VALUE=DATE:20240409
+UID:07a58422-0c07-4379-b271-1d6fd84a3e11
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987621\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240415T183500
+DTEND;VALUE=DATE:20240415T183500
+DTSTAMP;VALUE=DATE:20240409
+UID:883bac88-f21f-4427-95a5-74209245a247
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-ind
+ esirables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/w
+ ebshop/steps/start/show/999292\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240415T184500
+DTEND;VALUE=DATE:20240415T184500
+DTSTAMP;VALUE=DATE:20240409
+UID:36bc43f3-f897-4d1f-b40b-030a7dbb2f43
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997283\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240415T190000
+DTEND;VALUE=DATE:20240415T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:5b0df3d6-f04c-4496-be3a-23de7f504d9f
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/996625\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240415T191500
+DTEND;VALUE=DATE:20240415T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:10f20851-f17e-4bd3-b895-0c9539a12afa
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987601\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240415T204500
+DTEND;VALUE=DATE:20240415T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:d575ad83-5a09-4041-b754-3c89d2554054
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/997290\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonstruck
+DTSTART;VALUE=DATE:20240415T210000
+DTEND;VALUE=DATE:20240415T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:9d4001ee-b3ea-4654-8a70-3780657377bc
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/moonstr
+ uck/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999297\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240415T211500
+DTEND;VALUE=DATE:20240415T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:61cc5d65-ef5a-461d-963e-e49ba0da6387
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/999298\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240415T213000
+DTEND;VALUE=DATE:20240415T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:c9b0fe5a-aa02-4bb1-9168-bee7ec9168a1
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987602\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snake Eyes
+DTSTART;VALUE=DATE:20240416T100000
+DTEND;VALUE=DATE:20240416T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:fe860af0-a996-477a-a0c2-bd8e1a371197
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/snake-e
+ yes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999997\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240416T100500
+DTEND;VALUE=DATE:20240416T100500
+DTSTAMP;VALUE=DATE:20240409
+UID:4ab131b3-19e6-413d-8566-09cde7bc0c8a
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/996571\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240416T103000
+DTEND;VALUE=DATE:20240416T103000
+DTSTAMP;VALUE=DATE:20240409
+UID:d4566325-1e4d-4679-b349-7b4c1064d99a
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/999936\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Giant
+DTSTART;VALUE=DATE:20240416T104500
+DTEND;VALUE=DATE:20240416T104500
+DTSTAMP;VALUE=DATE:20240409
+UID:96e83f7f-1cf4-42df-b1a2-45e4fcd2d457
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/blue-gi
+ ant/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999323\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss
+DTSTART;VALUE=DATE:20240416T120500
+DTEND;VALUE=DATE:20240416T120500
+DTSTAMP;VALUE=DATE:20240409
+UID:111638d6-2bec-469d-9376-044bcbe2189b
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/vampire
+ s-kiss/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999352\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240416T122000
+DTEND;VALUE=DATE:20240416T122000
+DTSTAMP;VALUE=DATE:20240409
+UID:aca78d2e-65cf-442a-8dbb-aed0c969d0b1
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/996566\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240416T124500
+DTEND;VALUE=DATE:20240416T124500
+DTSTAMP;VALUE=DATE:20240409
+UID:83d670df-16cd-4183-8b17-31989af70f79
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997241\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240416T131500
+DTEND;VALUE=DATE:20240416T131500
+DTSTAMP;VALUE=DATE:20240409
+UID:af9c45c5-400b-4693-8ecd-83320f45e34a
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/999308\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Misérables
+DTSTART;VALUE=DATE:20240416T141500
+DTEND;VALUE=DATE:20240416T141500
+DTSTAMP;VALUE=DATE:20240409
+UID:c803aff1-dd87-4a0e-bffc-983a962c1e2d
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-mis
+ erables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/999333\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240416T143500
+DTEND;VALUE=DATE:20240416T143500
+DTSTAMP;VALUE=DATE:20240409
+UID:ddd144c2-5440-4c67-a105-b3309a31dfd9
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987625\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part One
+DTSTART;VALUE=DATE:20240416T160000
+DTEND;VALUE=DATE:20240416T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:69b8dec8-065a-4902-88f5-769ce31c2f0e
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-one/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997238\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wheel Of Fortune And Fantasy
+DTSTART;VALUE=DATE:20240416T161500
+DTEND;VALUE=DATE:20240416T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:1767a56d-5231-4d51-88ea-e3d5b3cb908a
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/wheel-o
+ f-fortune-and-fantasy/\nTickets: https://tickets.lab111.nl/labcinema/nl/fl
+ ow_configs/webshop/steps/start/show/999325\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Rock West
+DTSTART;VALUE=DATE:20240416T162500
+DTEND;VALUE=DATE:20240416T162500
+DTSTAMP;VALUE=DATE:20240409
+UID:8608cda1-8e7a-4f21-89e3-28bd04d36b1c
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/red-roc
+ k-west/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999341\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240416T165000
+DTEND;VALUE=DATE:20240416T165000
+DTSTAMP;VALUE=DATE:20240409
+UID:a89c74bd-6700-4fde-b609-0be98b072f93
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987623\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240416T183000
+DTEND;VALUE=DATE:20240416T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:31237bfa-219d-47af-90c9-43e41bbee67e
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-ind
+ esirables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/w
+ ebshop/steps/start/show/999331\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240416T184500
+DTEND;VALUE=DATE:20240416T184500
+DTSTAMP;VALUE=DATE:20240409
+UID:d13436e4-e440-449d-ad5a-8d6e3cfa5a62
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997284\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240416T190000
+DTEND;VALUE=DATE:20240416T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:3d05f969-2a29-4497-bf9f-d08b03a333fc
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987603\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240416T191500
+DTEND;VALUE=DATE:20240416T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:22099430-c074-4565-9243-4fdbb56c49b6
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/996626\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240416T210500
+DTEND;VALUE=DATE:20240416T210500
+DTSTAMP;VALUE=DATE:20240409
+UID:b298996c-02cb-471c-91e1-4c0f003b5ed1
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/997292\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240416T211500
+DTEND;VALUE=DATE:20240416T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:3a897294-83db-4aaf-b855-303045c5bee6
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/987605\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240416T212500
+DTEND;VALUE=DATE:20240416T212500
+DTSTAMP;VALUE=DATE:20240409
+UID:46d18c9e-a759-4c36-9eba-cb0de021f615
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/999336\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240416T213000
+DTEND;VALUE=DATE:20240416T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:ec3f4b7f-32e4-4777-b309-08e86addd128
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/997229\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Giant
+DTSTART;VALUE=DATE:20240417T100000
+DTEND;VALUE=DATE:20240417T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:8513aa7b-c9ff-4e3d-8aa4-2cfa4e8f4674
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/blue-gi
+ ant/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/999943\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss
+DTSTART;VALUE=DATE:20240417T100500
+DTEND;VALUE=DATE:20240417T100500
+DTSTAMP;VALUE=DATE:20240409
+UID:af9a226d-498f-4a0f-9598-f7081292a643
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/vampire
+ s-kiss/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/999351\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240417T101500
+DTEND;VALUE=DATE:20240417T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:4b67f7de-2d97-4919-be6a-fcd0d311c1eb
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-two/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997252\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;VALUE=DATE:20240417T103000
+DTEND;VALUE=DATE:20240417T103000
+DTSTAMP;VALUE=DATE:20240409
+UID:46325cec-7384-4b7a-a068-0a5231a5a1d9
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/oppenhe
+ imer/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/996570\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240417T121500
+DTEND;VALUE=DATE:20240417T121500
+DTSTAMP;VALUE=DATE:20240409
+UID:59d141c3-d940-455b-95c2-04ba9abe1edc
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/999337\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240417T122500
+DTEND;VALUE=DATE:20240417T122500
+DTSTAMP;VALUE=DATE:20240409
+UID:d2f00001-c85b-4902-acb2-1e9891083799
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/999309\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240417T140000
+DTEND;VALUE=DATE:20240417T140000
+DTSTAMP;VALUE=DATE:20240409
+UID:72631f48-f072-47ef-bcad-af1510bd84fd
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/996569\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Misérables
+DTSTART;VALUE=DATE:20240417T141500
+DTEND;VALUE=DATE:20240417T141500
+DTSTAMP;VALUE=DATE:20240409
+UID:31cfe092-cfff-40fc-90ac-97b115de1c05
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-mis
+ erables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/999998\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holy Mountain (4K Restoration)
+DTSTART;VALUE=DATE:20240417T151000
+DTEND;VALUE=DATE:20240417T151000
+DTSTAMP;VALUE=DATE:20240409
+UID:61ce4d41-8ab5-4207-9b81-32a356153f55
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-hol
+ y-mountain-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/n
+ l/flow_configs/webshop/steps/start/show/999911\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240417T161500
+DTEND;VALUE=DATE:20240417T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:be06e15d-e9f7-4e72-b4db-d6a326b50160
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/996568\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pig
+DTSTART;VALUE=DATE:20240417T163000
+DTEND;VALUE=DATE:20240417T163000
+DTSTAMP;VALUE=DATE:20240409
+UID:1f412a7e-2863-4fb9-99cd-0bf9762b1699
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/pig/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/999342\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240417T172000
+DTEND;VALUE=DATE:20240417T172000
+DTSTAMP;VALUE=DATE:20240409
+UID:403c6a62-9fea-40b8-81a9-c52570b775d7
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/999937\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Winnipeg
+DTSTART;VALUE=DATE:20240417T173000
+DTEND;VALUE=DATE:20240417T173000
+DTSTAMP;VALUE=DATE:20240409
+UID:129f9074-1eb1-4ea6-8549-54fcca02190c
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/my-winn
+ ipeg/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/999942\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240417T183000
+DTEND;VALUE=DATE:20240417T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:bcf31741-31d7-44d0-84a8-dd236ea1529b
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-ind
+ esirables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/w
+ ebshop/steps/start/show/999332\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Els Encantats
+DTSTART;VALUE=DATE:20240417T183000
+DTEND;VALUE=DATE:20240417T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:6d60918b-e49b-4335-b248-01f618f69409
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-els-encantats/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Testament d'Orphée
+DTSTART;VALUE=DATE:20240417T191500
+DTEND;VALUE=DATE:20240417T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:e4062712-0cfd-4f1d-a949-b2dbb2100960
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/le-test
+ ament-dorphee/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/981229\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240417T192500
+DTEND;VALUE=DATE:20240417T192500
+DTSTAMP;VALUE=DATE:20240409
+UID:09b42fe0-fc67-4e3e-a8d6-25a792d41b24
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/996627\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Con Air
+DTSTART;VALUE=DATE:20240417T204500
+DTEND;VALUE=DATE:20240417T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:0917ccfb-cad9-46eb-88ff-38d130e9fac9
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/con-air
+ /\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/st
+ eps/start/show/999335\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240417T205500
+DTEND;VALUE=DATE:20240417T205500
+DTSTAMP;VALUE=DATE:20240409
+UID:5748fb22-0a6c-4fb9-8e03-12a56c496a29
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1002188\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240417T210500
+DTEND;VALUE=DATE:20240417T210500
+DTSTAMP;VALUE=DATE:20240409
+UID:12ace6eb-4193-4597-9be2-29c86102b3d8
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/997285\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240417T213000
+DTEND;VALUE=DATE:20240417T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:748a273f-0a00-4a7c-b25a-064b7e72158d
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/987604\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss
+DTSTART;VALUE=DATE:20240418T120000
+DTEND;VALUE=DATE:20240418T120000
+DTSTAMP;VALUE=DATE:20240409
+UID:4446f965-72a6-40ec-8bda-b805171cc59c
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/vampire
+ s-kiss/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000370\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240418T121500
+DTEND;VALUE=DATE:20240418T121500
+DTSTAMP;VALUE=DATE:20240409
+UID:e64ed3e2-3948-4712-a5fd-094dc2f393de
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/1000357\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fugitive Kind
+DTSTART;VALUE=DATE:20240418T130000
+DTEND;VALUE=DATE:20240418T130000
+DTSTAMP;VALUE=DATE:20240409
+UID:e5af41d0-c7e2-4982-8092-88c789ec2c84
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-fug
+ itive-kind/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/
+ webshop/steps/start/show/1000359\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240418T140000
+DTEND;VALUE=DATE:20240418T140000
+DTSTAMP;VALUE=DATE:20240409
+UID:cca9f187-76dd-46a0-96fc-b5d1f080871e
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000039\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240418T141500
+DTEND;VALUE=DATE:20240418T141500
+DTSTAMP;VALUE=DATE:20240409
+UID:671e3117-4b73-4021-bbc7-32dc4c0d889a
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-ind
+ esirables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/w
+ ebshop/steps/start/show/1000369\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240418T144500
+DTEND;VALUE=DATE:20240418T144500
+DTSTAMP;VALUE=DATE:20240409
+UID:b3d81f3a-0956-4089-bc8f-d9a1645d5c0b
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/1000331\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild One
+DTSTART;VALUE=DATE:20240418T153000
+DTEND;VALUE=DATE:20240418T153000
+DTSTAMP;VALUE=DATE:20240409
+UID:f23c30c0-8a0d-46fc-a6a5-a5de260662ba
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-wil
+ d-one/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websh
+ op/steps/start/show/1000361\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240418T161500
+DTEND;VALUE=DATE:20240418T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:bb3ea281-0638-4b7e-a0fd-4d12d21fa0ce
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000038\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240418T163000
+DTEND;VALUE=DATE:20240418T163000
+DTSTAMP;VALUE=DATE:20240409
+UID:8b2c7092-b75a-4303-8f1d-2173cbc59502
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/1000367\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240418T170000
+DTEND;VALUE=DATE:20240418T170000
+DTSTAMP;VALUE=DATE:20240409
+UID:e83de910-1212-4faf-8157-6d39684ed275
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/1000102\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240418T171500
+DTEND;VALUE=DATE:20240418T171500
+DTSTAMP;VALUE=DATE:20240409
+UID:dfa5c8d9-3995-44d3-bb93-dec27e909c99
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000123\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: 21 Paraíso
+DTSTART;VALUE=DATE:20240418T183000
+DTEND;VALUE=DATE:20240418T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:ae0b0fbd-3dae-426b-b063-f338d8f6867c
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-21-paraiso/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240418T184500
+DTEND;VALUE=DATE:20240418T184500
+DTSTAMP;VALUE=DATE:20240409
+UID:b1f26d69-f923-4447-943f-ec7af2c7edcd
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000109\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240418T190000
+DTEND;VALUE=DATE:20240418T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:9fcd187e-6ca9-4386-8a08-c2046fe1e7fe
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000040\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augure
+DTSTART;VALUE=DATE:20240418T191500
+DTEND;VALUE=DATE:20240418T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:022e56ac-f7f3-48ba-8d6e-7432ba356564
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/augure/
+ \nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/ste
+ ps/start/show/1000114\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey
+DTSTART;VALUE=DATE:20240418T204500
+DTEND;VALUE=DATE:20240418T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:add45ba8-691e-46e5-9df6-41954f8d1214
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/2001-a-
+ space-odyssey/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/996759\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Face/Off
+DTSTART;VALUE=DATE:20240418T210000
+DTEND;VALUE=DATE:20240418T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:60e1212d-db0d-4255-be80-e0a7741fc758
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/face-of
+ f/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/s
+ teps/start/show/1000368\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On The Waterfront (70th Anniversary 4K Restoration)
+DTSTART;VALUE=DATE:20240418T211500
+DTEND;VALUE=DATE:20240418T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:85ee8082-aaea-402b-810f-ada0a8aaaaad
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/on-the-
+ waterfront-70th-anniversary-4k-restoration/\nTickets: https://tickets.lab1
+ 11.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1000353\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240418T213000
+DTEND;VALUE=DATE:20240418T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:54697e29-f46a-4be6-9c89-23f449fd4b95
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000041\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptation. (4K Restoration)
+DTSTART;VALUE=DATE:20240419T100000
+DTEND;VALUE=DATE:20240419T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:841d62ba-1971-41d9-8f3e-85d10113ddec
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/adaptat
+ ion/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/1000372\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Godfather
+DTSTART;VALUE=DATE:20240419T101500
+DTEND;VALUE=DATE:20240419T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:0204682c-2a35-4e9f-b400-c4a364399bb9
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/the-god
+ father/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000349\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild One
+DTSTART;VALUE=DATE:20240419T101500
+DTEND;VALUE=DATE:20240419T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:ea724230-98c7-4a70-b293-015dfc6008a5
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-wil
+ d-one/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websh
+ op/steps/start/show/1000377\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Testament d'Orphée
+DTSTART;VALUE=DATE:20240419T102500
+DTEND;VALUE=DATE:20240419T102500
+DTSTAMP;VALUE=DATE:20240409
+UID:e9ccb308-2ffd-4eb8-94f1-7d5c086aec4a
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/le-test
+ ament-dorphee/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/1000379\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Chase
+DTSTART;VALUE=DATE:20240419T120000
+DTEND;VALUE=DATE:20240419T120000
+DTSTAMP;VALUE=DATE:20240409
+UID:4fd904de-0911-45e8-9202-5c0f95343dd1
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-cha
+ se/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000375\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240419T121500
+DTEND;VALUE=DATE:20240419T121500
+DTSTAMP;VALUE=DATE:20240409
+UID:03c3ea7b-2f01-4246-85a3-211a4eb88c5d
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/1000378\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Rock West
+DTSTART;VALUE=DATE:20240419T122000
+DTEND;VALUE=DATE:20240419T122000
+DTSTAMP;VALUE=DATE:20240409
+UID:f464ad96-90ae-4e3c-b38f-ccbae961cac7
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/red-roc
+ k-west/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000374\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240419T140000
+DTEND;VALUE=DATE:20240419T140000
+DTSTAMP;VALUE=DATE:20240409
+UID:bb959f87-e21b-4cf8-8744-455ad342feda
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000042\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Misérables
+DTSTART;VALUE=DATE:20240419T142500
+DTEND;VALUE=DATE:20240419T142500
+DTSTAMP;VALUE=DATE:20240409
+UID:16411919-bbad-45ac-9f20-7ea08f99b198
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-mis
+ erables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000373\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her
+DTSTART;VALUE=DATE:20240419T143000
+DTEND;VALUE=DATE:20240419T143000
+DTSTAMP;VALUE=DATE:20240409
+UID:0d724da1-92de-4049-b494-40cd3872385e
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/her/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/1000334\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fugitive Kind
+DTSTART;VALUE=DATE:20240419T144500
+DTEND;VALUE=DATE:20240419T144500
+DTSTAMP;VALUE=DATE:20240409
+UID:eeda072b-7825-47dd-97b3-180fde2a5bdf
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-fug
+ itive-kind/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/
+ webshop/steps/start/show/1000376\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240419T161500
+DTEND;VALUE=DATE:20240419T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:444a9af4-cc15-4a28-b6b3-5c5f5fd478f1
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000043\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240419T163500
+DTEND;VALUE=DATE:20240419T163500
+DTSTAMP;VALUE=DATE:20240409
+UID:a2b9fb58-9c14-4689-8f64-56344cca58c8
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/1000366\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240419T170000
+DTEND;VALUE=DATE:20240419T170000
+DTSTAMP;VALUE=DATE:20240409
+UID:3773303e-8494-4185-9f3b-8a3138306fb8
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/1000103\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augure
+DTSTART;VALUE=DATE:20240419T171500
+DTEND;VALUE=DATE:20240419T171500
+DTSTAMP;VALUE=DATE:20240409
+UID:44b44852-12f8-4f8d-be0e-a1c1d5444d2d
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/augure/
+ \nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/ste
+ ps/start/show/1000128\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Mamántula
+DTSTART;VALUE=DATE:20240419T183000
+DTEND;VALUE=DATE:20240419T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:ef758feb-eeeb-4863-910e-14035addc28a
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-mamantula/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240419T185000
+DTEND;VALUE=DATE:20240419T185000
+DTSTAMP;VALUE=DATE:20240409
+UID:073e8452-ac55-45c6-a14c-902da4e3815e
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000137\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240419T190000
+DTEND;VALUE=DATE:20240419T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:d994d390-7f05-426f-9058-f280ccf5dd0b
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000099\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240419T191500
+DTEND;VALUE=DATE:20240419T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:9eb4343d-c4bd-44cb-90f8-4f71007c57a6
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000120\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: On The Go incl. Q&A
+DTSTART;VALUE=DATE:20240419T193000
+DTEND;VALUE=DATE:20240419T193000
+DTSTAMP;VALUE=DATE:20240409
+UID:43610436-1bac-44c4-8ee5-1c795f9ba127
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-on-the-go-incl-qa/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild At Heart
+DTSTART;VALUE=DATE:20240419T210000
+DTEND;VALUE=DATE:20240419T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:0cec57c9-ac85-4fa0-8839-71b9fac46f11
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/wild-at
+ -heart/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000371\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On The Waterfront (70th Anniversary 4K Restoration)
+DTSTART;VALUE=DATE:20240419T211500
+DTEND;VALUE=DATE:20240419T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:8aa6cb29-3fb3-48c1-a723-7cf9c15172c4
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/on-the-
+ waterfront-70th-anniversary-4k-restoration/\nTickets: https://tickets.lab1
+ 11.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1000354\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240419T213000
+DTEND;VALUE=DATE:20240419T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:47215eaa-7027-462c-8765-7cf5c8cef745
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000100\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: O Corno
+DTSTART;VALUE=DATE:20240419T213000
+DTEND;VALUE=DATE:20240419T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:3d8ca944-30b0-4d88-907a-44d2a2eae0c7
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-o-corno/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apocalypse Now: Final Cut
+DTSTART;VALUE=DATE:20240420T100000
+DTEND;VALUE=DATE:20240420T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:7ba9bcd9-c6c6-493e-8097-dc5f12c46c4d
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/apocaly
+ pse-now-final-cut/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_c
+ onfigs/webshop/steps/start/show/1000351\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240420T101500
+DTEND;VALUE=DATE:20240420T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:7839878e-fbf1-4e89-a510-b675403a5eee
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/1000387\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part One
+DTSTART;VALUE=DATE:20240420T102000
+DTEND;VALUE=DATE:20240420T102000
+DTSTAMP;VALUE=DATE:20240409
+UID:44a6190e-2d01-4a4d-9423-5e9de7f9c8ba
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dune-pa
+ rt-one/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000381\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240420T121500
+DTEND;VALUE=DATE:20240420T121500
+DTSTAMP;VALUE=DATE:20240409
+UID:14b77a2e-be3a-44f9-91ce-409c9b767037
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-ind
+ esirables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/w
+ ebshop/steps/start/show/1000386\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Testament d'Orphée
+DTSTART;VALUE=DATE:20240420T131500
+DTEND;VALUE=DATE:20240420T131500
+DTSTAMP;VALUE=DATE:20240409
+UID:f959a58c-13b4-4a77-955e-71e0290f734e
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/le-test
+ ament-dorphee/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/1000388\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240420T133000
+DTEND;VALUE=DATE:20240420T133000
+DTSTAMP;VALUE=DATE:20240409
+UID:ba46776c-2ca3-433d-9420-5a1b937c4e5b
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/1000382\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240420T134500
+DTEND;VALUE=DATE:20240420T134500
+DTSTAMP;VALUE=DATE:20240409
+UID:2a4ca4c1-1c58-4605-8be2-360ee7a44351
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000064\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240420T143000
+DTEND;VALUE=DATE:20240420T143000
+DTSTAMP;VALUE=DATE:20240409
+UID:8c8b2fd4-7c24-4006-b43c-144af614612c
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/1000365\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On The Waterfront (70th Anniversary 4K Restoration)
+DTSTART;VALUE=DATE:20240420T151500
+DTEND;VALUE=DATE:20240420T151500
+DTSTAMP;VALUE=DATE:20240409
+UID:6f58b1a9-4134-4a2a-b68d-d7f5b5750591
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/on-the-
+ waterfront-70th-anniversary-4k-restoration/\nTickets: https://tickets.lab1
+ 11.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1000384\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Meglio Gioventù
+DTSTART;VALUE=DATE:20240420T160000
+DTEND;VALUE=DATE:20240420T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:1cb85b5d-9c3e-44a4-94b7-979e80004151
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/la-megl
+ io-gioventu/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/983128\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: Sobre Todo De Noche
+DTSTART;VALUE=DATE:20240420T160000
+DTEND;VALUE=DATE:20240420T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:8f0cc0cb-0c7b-4775-8531-64185d5bccfe
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-sobre-todo-de-noche/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240420T164500
+DTEND;VALUE=DATE:20240420T164500
+DTSTAMP;VALUE=DATE:20240409
+UID:5d4628c1-596b-4ef7-bc69-0bbe4df8424d
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000067\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240420T173000
+DTEND;VALUE=DATE:20240420T173000
+DTSTAMP;VALUE=DATE:20240409
+UID:a1acb912-6c76-4d72-9ae2-ea9b764c7a43
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000125\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: La Contadora De Películas
+DTSTART;VALUE=DATE:20240420T183000
+DTEND;VALUE=DATE:20240420T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:afe281fd-5065-4ad4-8a82-9016aac5e17f
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-la-contadora-de-peliculas/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240420T190000
+DTEND;VALUE=DATE:20240420T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:b0d1eab4-e027-4bca-b8e3-efd0d393275d
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000065\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augure
+DTSTART;VALUE=DATE:20240420T193000
+DTEND;VALUE=DATE:20240420T193000
+DTSTAMP;VALUE=DATE:20240409
+UID:e8eb16de-03ad-4fdb-b63a-ae76e0672882
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/augure/
+ \nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/ste
+ ps/start/show/1000115\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Spanish Film Festival: La Estrella Azul
+DTSTART;VALUE=DATE:20240420T210000
+DTEND;VALUE=DATE:20240420T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:f894dc89-1b92-4020-ba2c-8cec5b9230e7
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/amsterd
+ am-spanish-film-festival-la-estrella-azul/\nTickets: None\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240420T211500
+DTEND;VALUE=DATE:20240420T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:0a841b5f-2e34-45bd-a2e9-88b80ed689ed
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000066\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240420T213000
+DTEND;VALUE=DATE:20240420T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:f9c0d30e-e0e0-46c3-807b-798d6ff5e6f6
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000338\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (60th Anniversary)
+DTSTART;VALUE=DATE:20240421T100000
+DTEND;VALUE=DATE:20240421T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:188e62cf-6e8f-4c21-a534-afb0752286c6
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/mary-po
+ ppins-60th-anniversary/\nTickets: https://tickets.lab111.nl/labcinema/nl/f
+ low_configs/webshop/steps/start/show/1000393\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Rock West
+DTSTART;VALUE=DATE:20240421T100500
+DTEND;VALUE=DATE:20240421T100500
+DTSTAMP;VALUE=DATE:20240409
+UID:20ca672d-df87-4125-ba51-8030df277591
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/red-roc
+ k-west/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000401\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Winnipeg
+DTSTART;VALUE=DATE:20240421T101500
+DTEND;VALUE=DATE:20240421T101500
+DTSTAMP;VALUE=DATE:20240409
+UID:d8d2eaa7-22e1-4dc3-b464-561694ceb174
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/my-winn
+ ipeg/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/1000397\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Godfather
+DTSTART;VALUE=DATE:20240421T104500
+DTEND;VALUE=DATE:20240421T104500
+DTSTAMP;VALUE=DATE:20240409
+UID:5f4167c3-52dc-4164-90dc-94ed27c4ecf3
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/the-god
+ father/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000404\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ex Machina
+DTSTART;VALUE=DATE:20240421T120000
+DTEND;VALUE=DATE:20240421T120000
+DTSTAMP;VALUE=DATE:20240409
+UID:0d74112a-f12f-4eea-9751-e418b4419ff0
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/ex-mach
+ ina/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop
+ /steps/start/show/1000398\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pig
+DTSTART;VALUE=DATE:20240421T121000
+DTEND;VALUE=DATE:20240421T121000
+DTSTAMP;VALUE=DATE:20240409
+UID:c14bfd83-de4d-4027-8f68-e7f4b539c652
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/pig/\nT
+ ickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/
+ start/show/1000403\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild One
+DTSTART;VALUE=DATE:20240421T124500
+DTEND;VALUE=DATE:20240421T124500
+DTSTAMP;VALUE=DATE:20240409
+UID:bdb7b09e-3ec9-4d4b-bf4b-286d2cc7362a
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-wil
+ d-one/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websh
+ op/steps/start/show/1000395\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Misérables
+DTSTART;VALUE=DATE:20240421T141000
+DTEND;VALUE=DATE:20240421T141000
+DTSTAMP;VALUE=DATE:20240409
+UID:1faa7918-3d02-4ff5-821d-5cda9f2a38ca
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/les-mis
+ erables/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000400\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours (4K Restoration)
+DTSTART;VALUE=DATE:20240421T141500
+DTEND;VALUE=DATE:20240421T141500
+DTSTAMP;VALUE=DATE:20240409
+UID:a33f53f2-3940-4b98-9b15-75e82604e6b0
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/after-h
+ ours-4k-restoration/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow
+ _configs/webshop/steps/start/show/1000104\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240421T143000
+DTEND;VALUE=DATE:20240421T143000
+DTSTAMP;VALUE=DATE:20240409
+UID:ef408095-220e-4b27-a788-6f43d68533dc
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000063\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Chase
+DTSTART;VALUE=DATE:20240421T143000
+DTEND;VALUE=DATE:20240421T143000
+DTSTAMP;VALUE=DATE:20240409
+UID:66967d04-5ba1-439b-bd83-5315853a0742
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/the-cha
+ se/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000396\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240421T161500
+DTEND;VALUE=DATE:20240421T161500
+DTSTAMP;VALUE=DATE:20240409
+UID:7c966eb1-1b58-4cff-9b81-e3075b958f63
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000108\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle Of Cagliostro (4K Restoration)
+DTSTART;VALUE=DATE:20240421T163000
+DTEND;VALUE=DATE:20240421T163000
+DTSTAMP;VALUE=DATE:20240409
+UID:aeb6dc89-ad75-4d8b-ac5f-2210aee15ddb
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/lupin-i
+ ii-the-castle-of-cagliostro/\nTickets: https://tickets.lab111.nl/labcinema
+ /nl/flow_configs/webshop/steps/start/show/1000399\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240421T164500
+DTEND;VALUE=DATE:20240421T164500
+DTSTAMP;VALUE=DATE:20240409
+UID:467f30e1-3201-4552-aebc-a85f81757fd4
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000058\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augure
+DTSTART;VALUE=DATE:20240421T171500
+DTEND;VALUE=DATE:20240421T171500
+DTSTAMP;VALUE=DATE:20240409
+UID:dc3f0584-db2b-4c27-85e4-555682373934
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/augure/
+ \nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/ste
+ ps/start/show/1000129\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Call Me By Your Name
+DTSTART;VALUE=DATE:20240421T183000
+DTEND;VALUE=DATE:20240421T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:47958402-925c-40ac-afc9-9b35bc9b5660
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/call-me
+ -by-your-name/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_confi
+ gs/webshop/steps/start/show/1000101\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Arizona
+DTSTART;VALUE=DATE:20240421T184500
+DTEND;VALUE=DATE:20240421T184500
+DTSTAMP;VALUE=DATE:20240409
+UID:4a972457-d9a4-4f81-a5fc-3b74f51323cb
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/raising
+ -arizona/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/we
+ bshop/steps/start/show/1000389\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faust
+DTSTART;VALUE=DATE:20240421T190000
+DTEND;VALUE=DATE:20240421T190000
+DTSTAMP;VALUE=DATE:20240409
+UID:522a5c98-0d0d-4219-afea-8d8ce4e93648
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/faust/\
+ nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/step
+ s/start/show/981227\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240421T191500
+DTEND;VALUE=DATE:20240421T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:4405731f-5856-4726-b0a9-1182dedb09a6
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000121\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240421T204500
+DTEND;VALUE=DATE:20240421T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:9581de61-41f8-4c4b-a43b-34ad1185441c
+DESCRIPTION:Theatre: LAB 4\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000132\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240421T210000
+DTEND;VALUE=DATE:20240421T210000
+DTSTAMP;VALUE=DATE:20240409
+UID:d1984652-c142-4443-a4f8-ba26a714ea9b
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000044\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On The Waterfront (70th Anniversary 4K Restoration)
+DTSTART;VALUE=DATE:20240421T211500
+DTEND;VALUE=DATE:20240421T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:0709a39b-ec32-42aa-a1c1-6200689142e5
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/on-the-
+ waterfront-70th-anniversary-4k-restoration/\nTickets: https://tickets.lab1
+ 11.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1000355\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240421T213000
+DTEND;VALUE=DATE:20240421T213000
+DTSTAMP;VALUE=DATE:20240409
+UID:450af35e-f880-4e4b-bcef-da1b383e15cb
+DESCRIPTION:Theatre: LAB 2\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000045\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apocalypse Now: Final Cut
+DTSTART;VALUE=DATE:20240422T100000
+DTEND;VALUE=DATE:20240422T100000
+DTSTAMP;VALUE=DATE:20240409
+UID:8f73a608-1de0-44f6-8e18-0c3fc221ab2e
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/apocaly
+ pse-now-final-cut/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_c
+ onfigs/webshop/steps/start/show/1000352\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Winnipeg
+DTSTART;VALUE=DATE:20240422T100500
+DTEND;VALUE=DATE:20240422T100500
+DTSTAMP;VALUE=DATE:20240409
+UID:c0c75d0e-4c04-4ade-9fe5-608154a821d1
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/my-winn
+ ipeg/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/websho
+ p/steps/start/show/1000409\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On The Waterfront (70th Anniversary 4K Restoration)
+DTSTART;VALUE=DATE:20240422T120000
+DTEND;VALUE=DATE:20240422T120000
+DTSTAMP;VALUE=DATE:20240409
+UID:a47fa8a0-dfab-4c3e-97d7-23efe55d4149
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/on-the-
+ waterfront-70th-anniversary-4k-restoration/\nTickets: https://tickets.lab1
+ 11.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1000419\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240422T134500
+DTEND;VALUE=DATE:20240422T134500
+DTSTAMP;VALUE=DATE:20240409
+UID:bd67c510-b77f-422f-bf67-01cacc23bc6a
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000060\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guys And Dolls
+DTSTART;VALUE=DATE:20240422T142000
+DTEND;VALUE=DATE:20240422T142000
+DTSTAMP;VALUE=DATE:20240409
+UID:72484e09-88b0-45d8-b1a1-a1b928191f97
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/guys-an
+ d-dolls/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000405\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240422T160000
+DTEND;VALUE=DATE:20240422T160000
+DTSTAMP;VALUE=DATE:20240409
+UID:dd293f28-6583-4f14-a979-0b426ce99502
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/civil-w
+ ar/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/
+ steps/start/show/1000056\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240422T171500
+DTEND;VALUE=DATE:20240422T171500
+DTSTAMP;VALUE=DATE:20240409
+UID:3eb877cc-fea7-4d68-99a6-a16b006f9c46
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/tiger-s
+ tripes/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000126\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;VALUE=DATE:20240422T183000
+DTEND;VALUE=DATE:20240422T183000
+DTSTAMP;VALUE=DATE:20240409
+UID:e388f747-0aed-45f7-b234-0b7a924eaaa1
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/love-li
+ es-bleeding/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs
+ /webshop/steps/start/show/1000049\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augure
+DTSTART;VALUE=DATE:20240422T191500
+DTEND;VALUE=DATE:20240422T191500
+DTSTAMP;VALUE=DATE:20240409
+UID:3e1675e5-5990-4dbf-8d77-53815385bf4f
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/augure/
+ \nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/ste
+ ps/start/show/1000116\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Godfather
+DTSTART;VALUE=DATE:20240422T204500
+DTEND;VALUE=DATE:20240422T204500
+DTSTAMP;VALUE=DATE:20240409
+UID:6932b323-6d18-4068-9b19-f673e1d97b11
+DESCRIPTION:Theatre: LAB 1\nFilm info: https://www.lab111.nl/movie/the-god
+ father/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/webs
+ hop/steps/start/show/1000345\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240422T211500
+DTEND;VALUE=DATE:20240422T211500
+DTSTAMP;VALUE=DATE:20240409
+UID:9f78f0f2-c728-40f4-8a0e-c016218f6ba9
+DESCRIPTION:Theatre: LAB 3\nFilm info: https://www.lab111.nl/movie/dream-s
+ cenario/\nTickets: https://tickets.lab111.nl/labcinema/nl/flow_configs/web
+ shop/steps/start/show/1000339\n
+LOCATION:LAB111\nArie Biemondstraat 111\, 1054 PD Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
