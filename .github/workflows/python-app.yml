@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: set python
         uses: actions/setup-python@v4
@@ -38,14 +38,19 @@ jobs:
 
       - name: commit
         run: |
-          git config --global user.email bgmRobot@github.com
-          git config --global user.name githubAction
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "update" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
 
-env:
-  #设置secrets的环境变量
-  USERID: ${{ secrets.USERID }}
+      # - name: google-drive-upload-git-action
+      #   uses: adityak74/google-drive-upload-git-action@v0.3
+      #   with:
+      #     credentials: ${{ secrets.GDRIVE_CREDENTIALS }}
+      #     filename: "*.ics"
+      #     folderId: ${{ secrets.GDRIVE_FOLDERID }}
+      #     overwrite: "true" # optional boolean
+  
