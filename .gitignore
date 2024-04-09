@@ -1,0 +1,11 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+
+# GitHub
+.DS_Store
