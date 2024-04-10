@@ -3,6 +3,8 @@ from datetime import datetime
 from icalendar import Calendar, Event
 from util import getUID, getDefaultEnd
 
+from sites import name2color
+
 
 class Cal:
     def __init__(self, ftname="FilmAgenda", output_path="./output"):
@@ -13,6 +15,7 @@ class Cal:
             with open("template.ics", "rb") as g:
                 self.cal = Calendar.from_ical(g.read())
                 self.cal["X-WR-CALNAME"] = ftname
+                self.cal["X-APPLE-CALENDAR-COLOR"] = name2color.get(ftname, "#FF699C")
         else:
             with open(file_path, "rb") as g:
                 self.cal = Calendar.from_ical(g.read())
@@ -40,8 +43,8 @@ class Cal:
         if dtend is not None:
             event.add("dtend", dtend, parameters={"VALUE": "DATE"})
         else:
-            # event.add('dtend', getDefaultEnd(dtstart), parameters={'VALUE': 'DATE'})
-            event.add("dtend", dtstart, parameters={"VALUE": "DATE"})
+            event.add('dtend', getDefaultEnd(dtstart, minutes=90), parameters={'VALUE': 'DATE'})
+            # event.add("dtend", dtstart, parameters={"VALUE": "DATE"})
         event.add("location", location)
         # event.add('class', 'PUBLIC')
         event.add("TRANSP", "OPAQUE")
@@ -49,6 +52,7 @@ class Cal:
             event.add("description", descripion)
         # event.add("X-APPLE-UNIVERSAL-ID", "42902458-1dd4-5105-04d0-2dccc0194c5f")
         if not self.eventExists(event):
+            # TODO if the event already exists, update the existing event instead of skipping it
             self.cal.add_component(event)
 
     def write(self):

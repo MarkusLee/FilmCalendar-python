@@ -1,0 +1,1437 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:FilmiCal
+X-APPLE-CALENDAR-COLOR:#999999
+X-WR-CALNAME:Kriterion
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+SUMMARY:Samsara
+DTSTART;VALUE=DATE:20240410T121000
+DTEND;VALUE=DATE:20240410T134000
+DTSTAMP;VALUE=DATE:20240410
+UID:9dce9815-94d3-4336-81c6-a719faa08994
+DESCRIPTION:Film info: /films/samsara\nTickets: https://tickets.kriterion.
+ nl/kriterion/nl/flow_configs/webshop/steps/start/show/999296\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240410T125000
+DTEND;VALUE=DATE:20240410T142000
+DTSTAMP;VALUE=DATE:20240410
+UID:f668d9e0-a98e-4945-8a23-58d84155ccf1
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999639\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Giant (ENG subs)
+DTSTART;VALUE=DATE:20240410T132500
+DTEND;VALUE=DATE:20240410T145500
+DTSTAMP;VALUE=DATE:20240410
+UID:b474f25d-5e25-4a90-b0fd-c5ec9ef14e31
+DESCRIPTION:Film info: /films/blue-giant-eng-subs\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999641\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;VALUE=DATE:20240410T134500
+DTEND;VALUE=DATE:20240410T151500
+DTSTAMP;VALUE=DATE:20240410
+UID:3c3ee99e-d033-4825-a411-34228fae5d63
+DESCRIPTION:Film info: /films/dune-part-two\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999281\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Eco (ENG subs)
+DTSTART;VALUE=DATE:20240410T142500
+DTEND;VALUE=DATE:20240410T155500
+DTSTAMP;VALUE=DATE:20240410
+UID:0b37907e-c634-4321-8f79-d05199c236c2
+DESCRIPTION:Film info: /films/el-eco-eng-subs\nTickets: https://tickets.kr
+ iterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999642\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240410T155000
+DTEND;VALUE=DATE:20240410T172000
+DTSTAMP;VALUE=DATE:20240410
+UID:1456f52f-e574-4ebb-b54a-f6ed733a8421
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999640\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;VALUE=DATE:20240410T163000
+DTEND;VALUE=DATE:20240410T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:ee1428e7-8ffc-41c7-b6a6-17a66b33c7f9
+DESCRIPTION:Film info: /films/poor-things\nTickets: https://tickets.kriter
+ ion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999279\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (NL)
+DTSTART;VALUE=DATE:20240410T164500
+DTEND;VALUE=DATE:20240410T181500
+DTSTAMP;VALUE=DATE:20240410
+UID:1a07f45e-666c-4785-aff3-c77ba44d9fe7
+DESCRIPTION:Film info: /films/kung-fu-panda-4-nl\nTickets: https://tickets
+ .kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999270\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melk (ENG SUBS)
+DTSTART;VALUE=DATE:20240410T170000
+DTEND;VALUE=DATE:20240410T183000
+DTSTAMP;VALUE=DATE:20240410
+UID:921e89cf-f01f-4ce3-aac5-2ffecfd14927
+DESCRIPTION:Film info: /films/melk-eng-subs\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999643\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest (ENG subs)
+DTSTART;VALUE=DATE:20240410T184500
+DTEND;VALUE=DATE:20240410T201500
+DTSTAMP;VALUE=DATE:20240410
+UID:cbde2272-b37c-4bc7-a770-8702e4453220
+DESCRIPTION:Film info: /films/the-zone-of-interest-eng-subs\nTickets: http
+ s://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/sho
+ w/999645\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;VALUE=DATE:20240410T190000
+DTEND;VALUE=DATE:20240410T203000
+DTSTAMP;VALUE=DATE:20240410
+UID:48f8143d-b23f-4257-a28f-5b417560c6e4
+DESCRIPTION:Film info: /films/evil-does-not-exist\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999271\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Body Politic 
+DTSTART;VALUE=DATE:20240410T191500
+DTEND;VALUE=DATE:20240410T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:40196ec0-1cf4-4875-9fba-03597d4589d4
+DESCRIPTION:Film info: /films/the-body-politic\nTickets: https://tickets.k
+ riterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/990591\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Paraíso (ENG subs)
+DTSTART;VALUE=DATE:20240410T210000
+DTEND;VALUE=DATE:20240410T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:4da025d4-1a56-4c18-a936-c0065456bd2d
+DESCRIPTION:Film info: /films/el-paraso-eng-subs\nTickets: https://tickets
+ .kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999644\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240410T211500
+DTEND;VALUE=DATE:20240410T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:86122487-7d49-4fc8-9e2e-b58d26cb8554
+DESCRIPTION:Film info: /films/les-indsirables\nTickets: https://tickets.kr
+ iterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999274\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240410T214000
+DTEND;VALUE=DATE:20240410T231000
+DTSTAMP;VALUE=DATE:20240410
+UID:dc0fb089-b1a7-4c90-b365-de768ec2180a
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999275\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240411T161500
+DTEND;VALUE=DATE:20240411T174500
+DTSTAMP;VALUE=DATE:20240410
+UID:3486f752-dc59-4658-a53a-b0a3d0d17dde
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001910
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240411T163000
+DTEND;VALUE=DATE:20240411T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:a530359c-ccbb-4ff6-bb20-4e320b6629cf
+DESCRIPTION:Film info: /films/les-indsirables\nTickets: https://tickets.kr
+ iterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001906\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conann
+DTSTART;VALUE=DATE:20240411T164500
+DTEND;VALUE=DATE:20240411T181500
+DTSTAMP;VALUE=DATE:20240410
+UID:b7380d0a-cc7b-4d32-8e72-45f42204e73d
+DESCRIPTION:Film info: /films/conann\nTickets: https://tickets.kriterion.n
+ l/kriterion/nl/flow_configs/webshop/steps/start/show/1001908\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melk (ENG SUBS)
+DTSTART;VALUE=DATE:20240411T171500
+DTEND;VALUE=DATE:20240411T184500
+DTSTAMP;VALUE=DATE:20240410
+UID:84408f81-9f92-4eb3-84f0-befcc86c584b
+DESCRIPTION:Film info: /films/melk-eng-subs\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002372\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters (ENG subs)
+DTSTART;VALUE=DATE:20240411T184500
+DTEND;VALUE=DATE:20240411T201500
+DTSTAMP;VALUE=DATE:20240410
+UID:e4f0f979-dbe6-48e7-aa2c-fefc1947541c
+DESCRIPTION:Film info: /films/four-daughters-eng-subs\nTickets: https://ti
+ ckets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002
+ 380\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:78 days
+DTSTART;VALUE=DATE:20240411T190000
+DTEND;VALUE=DATE:20240411T203000
+DTSTAMP;VALUE=DATE:20240410
+UID:91886848-bed0-4b35-b524-c9d20e14c68e
+DESCRIPTION:Film info: /films/78-days\nTickets: https://tickets.kriterion.
+ nl/kriterion/nl/flow_configs/webshop/steps/start/show/980534\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist (ENG subs)
+DTSTART;VALUE=DATE:20240411T191500
+DTEND;VALUE=DATE:20240411T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:eb014fae-ad47-4050-9ed0-9bd961b69675
+DESCRIPTION:Film info: /films/evil-does-not-exist-eng-subs\nTickets: https
+ ://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show
+ /1002371\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240411T204500
+DTEND;VALUE=DATE:20240411T221500
+DTSTAMP;VALUE=DATE:20240410
+UID:5c9b1cba-1b8f-4392-8362-8d8760c3440a
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001905\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240411T210000
+DTEND;VALUE=DATE:20240411T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:d625bd30-adfb-4816-b9af-fb9003432206
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001899\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes (ENG subs)
+DTSTART;VALUE=DATE:20240411T213000
+DTEND;VALUE=DATE:20240411T230000
+DTSTAMP;VALUE=DATE:20240410
+UID:1f64dae5-8ad7-499c-aab2-c928d5936797
+DESCRIPTION:Film info: /films/tiger-stripes-eng-subs\nTickets: https://tic
+ kets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/10023
+ 95\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle of Cagliostro
+DTSTART;VALUE=DATE:20240412T121500
+DTEND;VALUE=DATE:20240412T134500
+DTSTAMP;VALUE=DATE:20240410
+UID:00aba8f3-a0bc-4432-bd0b-3c34810f2db1
+DESCRIPTION:Film info: /films/lupin-iii-the-castle-of-cagliostro\nTickets:
+  https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/star
+ t/show/1001940\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters
+DTSTART;VALUE=DATE:20240412T124500
+DTEND;VALUE=DATE:20240412T141500
+DTSTAMP;VALUE=DATE:20240410
+UID:332228af-19b5-4be0-9ca2-1320dcef7c09
+DESCRIPTION:Film info: /films/four-daughters\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001914\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240412T134500
+DTEND;VALUE=DATE:20240412T151500
+DTSTAMP;VALUE=DATE:20240410
+UID:32c3617e-1222-4400-8b8f-8049e8f2478f
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001932\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melk (ENG SUBS)
+DTSTART;VALUE=DATE:20240412T143000
+DTEND;VALUE=DATE:20240412T160000
+DTSTAMP;VALUE=DATE:20240410
+UID:23dd99c8-ab94-442a-a6fe-e49aed9c8acf
+DESCRIPTION:Film info: /films/melk-eng-subs\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002374\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240412T150000
+DTEND;VALUE=DATE:20240412T163000
+DTSTAMP;VALUE=DATE:20240410
+UID:0e367e91-3bd7-446c-acf2-3025e8202eb3
+DESCRIPTION:Film info: /films/tiger-stripes\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001937\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240412T155000
+DTEND;VALUE=DATE:20240412T172000
+DTSTAMP;VALUE=DATE:20240410
+UID:d306d711-23bc-4b7b-b9cd-b065a3e3dd14
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001933
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Paraíso (ENG subs)
+DTSTART;VALUE=DATE:20240412T163000
+DTEND;VALUE=DATE:20240412T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:08f1eb5d-8b49-482f-a8c8-2902cc18c74f
+DESCRIPTION:Film info: /films/el-paraso-eng-subs\nTickets: https://tickets
+ .kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002720\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest (ENG subs)
+DTSTART;VALUE=DATE:20240412T164500
+DTEND;VALUE=DATE:20240412T181500
+DTSTAMP;VALUE=DATE:20240410
+UID:f75dd69a-ef1a-4fc9-ace4-fac90c2e9ad6
+DESCRIPTION:Film info: /films/the-zone-of-interest-eng-subs\nTickets: http
+ s://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/sho
+ w/1002373\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240412T170000
+DTEND;VALUE=DATE:20240412T183000
+DTSTAMP;VALUE=DATE:20240410
+UID:80764cbf-9cdd-425c-b53a-04ccffa83ca5
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001913\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables (ENG subs)
+DTSTART;VALUE=DATE:20240412T184500
+DTEND;VALUE=DATE:20240412T201500
+DTSTAMP;VALUE=DATE:20240410
+UID:879b30e9-1feb-4886-b7da-e815a4fdb148
+DESCRIPTION:Film info: /films/les-indsirables-eng-subs\nTickets: https://t
+ ickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/100
+ 2379\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;VALUE=DATE:20240412T190000
+DTEND;VALUE=DATE:20240412T203000
+DTSTAMP;VALUE=DATE:20240410
+UID:9fa0954d-c0b1-43bb-8a84-2dce7bbe0bde
+DESCRIPTION:Film info: /films/evil-does-not-exist\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001917\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters (ENG subs)
+DTSTART;VALUE=DATE:20240412T191500
+DTEND;VALUE=DATE:20240412T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:a19281df-5b6b-4a4b-a60d-347937f08e08
+DESCRIPTION:Film info: /films/four-daughters-eng-subs\nTickets: https://ti
+ ckets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002
+ 381\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conann
+DTSTART;VALUE=DATE:20240412T210000
+DTEND;VALUE=DATE:20240412T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:d7c55e91-92d5-4237-8dd4-cb95906be81c
+DESCRIPTION:Film info: /films/conann\nTickets: https://tickets.kriterion.n
+ l/kriterion/nl/flow_configs/webshop/steps/start/show/1001921\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;VALUE=DATE:20240412T211500
+DTEND;VALUE=DATE:20240412T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:eb281b2d-240f-46c3-922d-dae4e2d4f07f
+DESCRIPTION:Film info: /films/poor-things\nTickets: https://tickets.kriter
+ ion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001918\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240412T213000
+DTEND;VALUE=DATE:20240412T230000
+DTSTAMP;VALUE=DATE:20240410
+UID:5fe92bb9-f521-4d7e-b868-77cf99cc457b
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001911\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conann
+DTSTART;VALUE=DATE:20240412T231500
+DTEND;VALUE=DATE:20240413T004500
+DTSTAMP;VALUE=DATE:20240410
+UID:c03b7704-7172-415b-9aa2-b17c547eaf32
+DESCRIPTION:Film info: /films/conann\nTickets: https://tickets.kriterion.n
+ l/kriterion/nl/flow_configs/webshop/steps/start/show/1002397\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240412T000000
+DTEND;VALUE=DATE:20240412T013000
+DTSTAMP;VALUE=DATE:20240410
+UID:43e86f0f-a7b8-43f5-939e-d6c99b8e9560
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002398
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters
+DTSTART;VALUE=DATE:20240413T121000
+DTEND;VALUE=DATE:20240413T134000
+DTSTAMP;VALUE=DATE:20240410
+UID:0ee220c0-3716-44e7-8dba-a6e324490e72
+DESCRIPTION:Film info: /films/four-daughters\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002144\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240413T122500
+DTEND;VALUE=DATE:20240413T135500
+DTSTAMP;VALUE=DATE:20240410
+UID:f1f6f911-74ec-43eb-bf62-22d09c24f1ec
+DESCRIPTION:Film info: /films/les-indsirables\nTickets: https://tickets.kr
+ iterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001999\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Paraíso
+DTSTART;VALUE=DATE:20240413T124000
+DTEND;VALUE=DATE:20240413T141000
+DTSTAMP;VALUE=DATE:20240410
+UID:f11b8dac-185c-4608-a264-a9b7e9d5d915
+DESCRIPTION:Film info: /films/el-paraso\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002005\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;VALUE=DATE:20240413T142000
+DTEND;VALUE=DATE:20240413T155000
+DTSTAMP;VALUE=DATE:20240410
+UID:c2b0f8d9-ebcd-4d90-949e-f160ad31d51c
+DESCRIPTION:Film info: /films/poor-things\nTickets: https://tickets.kriter
+ ion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002003\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (NL)
+DTSTART;VALUE=DATE:20240413T143500
+DTEND;VALUE=DATE:20240413T160500
+DTSTAMP;VALUE=DATE:20240410
+UID:56a86c4e-ea19-45d8-b8d6-f74a4070384a
+DESCRIPTION:Film info: /films/kung-fu-panda-4-nl\nTickets: https://tickets
+ .kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002013\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melk
+DTSTART;VALUE=DATE:20240413T145000
+DTEND;VALUE=DATE:20240413T162000
+DTSTAMP;VALUE=DATE:20240410
+UID:cd3b17f9-dffa-4a56-8866-ccd1fd608992
+DESCRIPTION:Film info: /films/melk\nTickets: https://tickets.kriterion.nl/
+ kriterion/nl/flow_configs/webshop/steps/start/show/1001998\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Garçons Sauvages
+DTSTART;VALUE=DATE:20240413T163000
+DTEND;VALUE=DATE:20240413T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:c87efe36-e7b9-41a2-9be8-097f88a3c521
+DESCRIPTION:Film info: /films/les-garons-sauvages\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/996638\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conann
+DTSTART;VALUE=DATE:20240413T165000
+DTEND;VALUE=DATE:20240413T182000
+DTSTAMP;VALUE=DATE:20240410
+UID:5fb4124d-4c32-4c32-95a0-d8ec2dd560e3
+DESCRIPTION:Film info: /films/conann\nTickets: https://tickets.kriterion.n
+ l/kriterion/nl/flow_configs/webshop/steps/start/show/1001993\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240413T171000
+DTEND;VALUE=DATE:20240413T184000
+DTSTAMP;VALUE=DATE:20240410
+UID:78477822-43aa-48db-abef-1b6b0168349c
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001987\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240413T184500
+DTEND;VALUE=DATE:20240413T201500
+DTSTAMP;VALUE=DATE:20240410
+UID:8e4d5fad-9b8c-4767-acb0-5e90e0198436
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001995
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;VALUE=DATE:20240413T190000
+DTEND;VALUE=DATE:20240413T203000
+DTSTAMP;VALUE=DATE:20240410
+UID:0e4d4a7e-1eb3-496b-a765-9ca3e003bba6
+DESCRIPTION:Film info: /films/evil-does-not-exist\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001992\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240413T191500
+DTEND;VALUE=DATE:20240413T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:05cd39af-3abd-42b7-823e-64134807f6ec
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001965\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes (ENG subs)
+DTSTART;VALUE=DATE:20240413T211500
+DTEND;VALUE=DATE:20240413T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:0ba68403-8d5a-4568-9801-e172a7629c28
+DESCRIPTION:Film info: /films/tiger-stripes-eng-subs\nTickets: https://tic
+ kets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/10023
+ 94\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters (ENG subs)
+DTSTART;VALUE=DATE:20240413T213000
+DTEND;VALUE=DATE:20240413T230000
+DTSTAMP;VALUE=DATE:20240410
+UID:b7c8bc37-084e-40b9-83bd-cb4eb82df4eb
+DESCRIPTION:Film info: /films/four-daughters-eng-subs\nTickets: https://ti
+ ckets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002
+ 382\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables
+DTSTART;VALUE=DATE:20240414T123000
+DTEND;VALUE=DATE:20240414T140000
+DTSTAMP;VALUE=DATE:20240410
+UID:311744bb-bb9c-422c-83c6-95af9cec4ff7
+DESCRIPTION:Film info: /films/les-indsirables\nTickets: https://tickets.kr
+ iterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002086\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (NL)
+DTSTART;VALUE=DATE:20240414T133000
+DTEND;VALUE=DATE:20240414T150000
+DTSTAMP;VALUE=DATE:20240410
+UID:1ac9a830-f5ff-4584-bbdc-079bf641f56b
+DESCRIPTION:Film info: /films/kung-fu-panda-4-nl\nTickets: https://tickets
+ .kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002108\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Paraíso
+DTSTART;VALUE=DATE:20240414T144000
+DTEND;VALUE=DATE:20240414T161000
+DTSTAMP;VALUE=DATE:20240410
+UID:f4fdedb4-da6f-422e-a358-f47fa21ada3c
+DESCRIPTION:Film info: /films/el-paraso\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002106\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;VALUE=DATE:20240414T150000
+DTEND;VALUE=DATE:20240414T163000
+DTSTAMP;VALUE=DATE:20240410
+UID:1891d436-94dc-4074-9ff7-60d858a3f15a
+DESCRIPTION:Film info: /films/evil-does-not-exist\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002110\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melk
+DTSTART;VALUE=DATE:20240414T153000
+DTEND;VALUE=DATE:20240414T170000
+DTSTAMP;VALUE=DATE:20240410
+UID:e655ddf4-0282-461b-90e6-50386a40ce02
+DESCRIPTION:Film info: /films/melk\nTickets: https://tickets.kriterion.nl/
+ kriterion/nl/flow_configs/webshop/steps/start/show/1002094\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240414T165000
+DTEND;VALUE=DATE:20240414T182000
+DTSTAMP;VALUE=DATE:20240410
+UID:a3af781a-91a3-41f8-b0cc-e9f3efa7a17c
+DESCRIPTION:Film info: /films/tiger-stripes\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002105\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters
+DTSTART;VALUE=DATE:20240414T171000
+DTEND;VALUE=DATE:20240414T184000
+DTSTAMP;VALUE=DATE:20240410
+UID:b5bf11b3-3189-4449-889c-bc96395b3d6b
+DESCRIPTION:Film info: /films/four-daughters\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002069\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240414T173500
+DTEND;VALUE=DATE:20240414T190500
+DTSTAMP;VALUE=DATE:20240410
+UID:2a531c79-5149-44dd-b8f5-ec13fdf8ec6b
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002109
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfect Days
+DTSTART;VALUE=DATE:20240414T183000
+DTEND;VALUE=DATE:20240414T200000
+DTSTAMP;VALUE=DATE:20240410
+UID:fd8dd8ff-91a3-43c7-a317-0d590ec41dcb
+DESCRIPTION:Film info: /films/perfect-days\nTickets: https://tickets.krite
+ rion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002076\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conann
+DTSTART;VALUE=DATE:20240414T185000
+DTEND;VALUE=DATE:20240414T202000
+DTSTAMP;VALUE=DATE:20240410
+UID:c216e007-cac6-409e-8cd7-42c92a83f8ec
+DESCRIPTION:Film info: /films/conann\nTickets: https://tickets.kriterion.n
+ l/kriterion/nl/flow_configs/webshop/steps/start/show/1002102\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240414T192000
+DTEND;VALUE=DATE:20240414T205000
+DTSTAMP;VALUE=DATE:20240410
+UID:29259d9f-711b-4914-a54f-5e005adaf6ba
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002071\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Giant (ENG subs)
+DTSTART;VALUE=DATE:20240414T210000
+DTEND;VALUE=DATE:20240414T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:b7242dee-59cf-4e25-ac4c-dd8d8ccfa169
+DESCRIPTION:Film info: /films/blue-giant-eng-subs\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002375\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle of Cagliostro (ENG subs)
+DTSTART;VALUE=DATE:20240414T211500
+DTEND;VALUE=DATE:20240414T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:39ed101f-d45f-4291-a388-55576b12f41c
+DESCRIPTION:Film info: /films/lupin-iii-the-castle-of-cagliostro-eng-subs\
+ nTickets: https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/s
+ teps/start/show/1002716\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240414T213000
+DTEND;VALUE=DATE:20240414T230000
+DTSTAMP;VALUE=DATE:20240410
+UID:b33bf9d5-4f77-4040-8934-1c64da71477d
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002048\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes
+DTSTART;VALUE=DATE:20240415T161500
+DTEND;VALUE=DATE:20240415T174500
+DTSTAMP;VALUE=DATE:20240410
+UID:d8dafd2d-82cb-482e-8a90-f38d23563275
+DESCRIPTION:Film info: /films/tiger-stripes\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002114\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240415T163000
+DTEND;VALUE=DATE:20240415T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:2f45f3d0-34a8-4ad6-ac1d-42c98d8db5bd
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002118\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melk (ENG SUBS)
+DTSTART;VALUE=DATE:20240415T170000
+DTEND;VALUE=DATE:20240415T183000
+DTSTAMP;VALUE=DATE:20240410
+UID:bcbc8108-740f-431a-a088-934c6c1c1c48
+DESCRIPTION:Film info: /films/melk-eng-subs\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002384\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240415T181500
+DTEND;VALUE=DATE:20240415T194500
+DTSTAMP;VALUE=DATE:20240410
+UID:237fda31-b3ad-45e2-a2cd-0e55552155ba
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002115
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfect Days (ENG subs)
+DTSTART;VALUE=DATE:20240415T183000
+DTEND;VALUE=DATE:20240415T200000
+DTSTAMP;VALUE=DATE:20240410
+UID:97499040-c355-472b-a531-904b2b09b416
+DESCRIPTION:Film info: /films/perfect-days-eng-subs\nTickets: https://tick
+ ets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/100237
+ 6\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;VALUE=DATE:20240415T190000
+DTEND;VALUE=DATE:20240415T203000
+DTSTAMP;VALUE=DATE:20240410
+UID:b72ad560-d07f-4cb5-b2e2-36bc909cb9ba
+DESCRIPTION:Film info: /films/evil-does-not-exist\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002116\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240415T191500
+DTEND;VALUE=DATE:20240415T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:1364bded-8f6d-47a6-9f89-aec1cafb4946
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002049\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Labyrinth of Passion
+DTSTART;VALUE=DATE:20240415T210000
+DTEND;VALUE=DATE:20240415T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:1fdce458-d181-4fec-b2f5-50a1adfb7f10
+DESCRIPTION:Film info: /films/labyrinth-of-passion\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/996637\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupin III: The Castle of Cagliostro (ENG subs)
+DTSTART;VALUE=DATE:20240415T211500
+DTEND;VALUE=DATE:20240415T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:91945f78-354a-4048-8e08-dcb906ee1f8b
+DESCRIPTION:Film info: /films/lupin-iii-the-castle-of-cagliostro-eng-subs\
+ nTickets: https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/s
+ teps/start/show/1002717\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters (ENG subs)
+DTSTART;VALUE=DATE:20240415T213000
+DTEND;VALUE=DATE:20240415T230000
+DTSTAMP;VALUE=DATE:20240410
+UID:73a80664-06cd-47bd-8932-4deefc505985
+DESCRIPTION:Film info: /films/four-daughters-eng-subs\nTickets: https://ti
+ ckets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002
+ 383\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240416T161500
+DTEND;VALUE=DATE:20240416T174500
+DTSTAMP;VALUE=DATE:20240410
+UID:24be92b8-3988-4266-a112-7677057e505f
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002124\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist (ENG subs)
+DTSTART;VALUE=DATE:20240416T163000
+DTEND;VALUE=DATE:20240416T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:b5b328ca-ddc7-49b5-b8b0-2c6c141834b3
+DESCRIPTION:Film info: /films/evil-does-not-exist-eng-subs\nTickets: https
+ ://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show
+ /1002386\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;VALUE=DATE:20240416T164500
+DTEND;VALUE=DATE:20240416T181500
+DTSTAMP;VALUE=DATE:20240410
+UID:5076474e-65b7-429d-84b1-ec1a9f0b97f3
+DESCRIPTION:Film info: /films/poor-things\nTickets: https://tickets.kriter
+ ion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002182\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240416T182000
+DTEND;VALUE=DATE:20240416T195000
+DTSTAMP;VALUE=DATE:20240410
+UID:37eb9ae0-b61d-4afe-bd04-1d9568679cde
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002125
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240416T184500
+DTEND;VALUE=DATE:20240416T201500
+DTSTAMP;VALUE=DATE:20240410
+UID:ed5059da-057b-4a61-9237-dbbb341e4830
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002050\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:78 days
+DTSTART;VALUE=DATE:20240416T191500
+DTEND;VALUE=DATE:20240416T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:c2fd0bfe-5e46-4a16-9028-f699b10b3cc7
+DESCRIPTION:Film info: /films/78-days\nTickets: https://tickets.kriterion.
+ nl/kriterion/nl/flow_configs/webshop/steps/start/show/980535\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melk (ENG SUBS)
+DTSTART;VALUE=DATE:20240416T193000
+DTEND;VALUE=DATE:20240416T210000
+DTSTAMP;VALUE=DATE:20240410
+UID:8d150a57-458b-4028-a29c-00edfe741a5a
+DESCRIPTION:Film info: /films/melk-eng-subs\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002387\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SNEAK PREVIEW
+DTSTART;VALUE=DATE:20240416T210000
+DTEND;VALUE=DATE:20240416T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:080151f4-707f-4ac1-b506-5240146afda0
+DESCRIPTION:Film info: /films/sneak-preview\nTickets: https://tickets.krit
+ erion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1001919\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters (ENG subs)
+DTSTART;VALUE=DATE:20240416T211500
+DTEND;VALUE=DATE:20240416T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:b07474ee-def5-4297-9555-4df2d13902ae
+DESCRIPTION:Film info: /films/four-daughters-eng-subs\nTickets: https://ti
+ ckets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002
+ 385\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conann
+DTSTART;VALUE=DATE:20240416T213000
+DTEND;VALUE=DATE:20240416T230000
+DTSTAMP;VALUE=DATE:20240410
+UID:1d40dc56-ae4e-4866-9443-2ca04c462d2c
+DESCRIPTION:Film info: /films/conann\nTickets: https://tickets.kriterion.n
+ l/kriterion/nl/flow_configs/webshop/steps/start/show/1002123\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters
+DTSTART;VALUE=DATE:20240417T121500
+DTEND;VALUE=DATE:20240417T134500
+DTSTAMP;VALUE=DATE:20240410
+UID:453c9d1a-99da-46c5-9e86-45c47ee6ef3c
+DESCRIPTION:Film info: /films/four-daughters\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002139\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240417T124500
+DTEND;VALUE=DATE:20240417T141500
+DTSTAMP;VALUE=DATE:20240410
+UID:371caffc-0c93-45e9-abae-93deda7b90f6
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002147\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfect Days (ENG subs)
+DTSTART;VALUE=DATE:20240417T130000
+DTEND;VALUE=DATE:20240417T143000
+DTSTAMP;VALUE=DATE:20240410
+UID:082896a1-3010-4133-a6bd-fde9a8e1c367
+DESCRIPTION:Film info: /films/perfect-days-eng-subs\nTickets: https://tick
+ ets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/100237
+ 7\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest (ENG subs)
+DTSTART;VALUE=DATE:20240417T143000
+DTEND;VALUE=DATE:20240417T160000
+DTSTAMP;VALUE=DATE:20240410
+UID:855e1394-aa25-4592-9325-13a87900f93e
+DESCRIPTION:Film info: /films/the-zone-of-interest-eng-subs\nTickets: http
+ s://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/sho
+ w/1002388\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (NL)
+DTSTART;VALUE=DATE:20240417T150000
+DTEND;VALUE=DATE:20240417T163000
+DTSTAMP;VALUE=DATE:20240410
+UID:1523b3d9-ceef-4d4d-95ef-e10e15d2eb46
+DESCRIPTION:Film info: /films/kung-fu-panda-4-nl\nTickets: https://tickets
+ .kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002135\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Mokum (ENG subs)
+DTSTART;VALUE=DATE:20240417T153000
+DTEND;VALUE=DATE:20240417T170000
+DTSTAMP;VALUE=DATE:20240410
+UID:5bf37e7a-10b8-4db8-8edb-78ec71298902
+DESCRIPTION:Film info: /films/hotel-mokum-eng-subs\nTickets: https://ticke
+ ts.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002141
+ \n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Paraíso (ENG subs)
+DTSTART;VALUE=DATE:20240417T163000
+DTEND;VALUE=DATE:20240417T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:9193b25e-a599-407e-aa07-454072dadac6
+DESCRIPTION:Film info: /films/el-paraso-eng-subs\nTickets: https://tickets
+ .kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002724\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;VALUE=DATE:20240417T164500
+DTEND;VALUE=DATE:20240417T181500
+DTSTAMP;VALUE=DATE:20240410
+UID:093a1dda-e643-4204-b793-1016c66ed255
+DESCRIPTION:Film info: /films/evil-does-not-exist\nTickets: https://ticket
+ s.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002133\
+ n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conann
+DTSTART;VALUE=DATE:20240417T170000
+DTEND;VALUE=DATE:20240417T183000
+DTSTAMP;VALUE=DATE:20240410
+UID:b614b62f-eed7-46fb-a14f-b64cb3d4c4e6
+DESCRIPTION:Film info: /films/conann\nTickets: https://tickets.kriterion.n
+ l/kriterion/nl/flow_configs/webshop/steps/start/show/1002136\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Indésirables (ENG subs)
+DTSTART;VALUE=DATE:20240417T184500
+DTEND;VALUE=DATE:20240417T201500
+DTSTAMP;VALUE=DATE:20240410
+UID:1939919f-2711-4325-b8d2-d91731048aae
+DESCRIPTION:Film info: /films/les-indsirables-eng-subs\nTickets: https://t
+ ickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/100
+ 2390\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Daughters (ENG subs)
+DTSTART;VALUE=DATE:20240417T190000
+DTEND;VALUE=DATE:20240417T203000
+DTSTAMP;VALUE=DATE:20240410
+UID:6afec8f2-4aa5-4d3e-a638-67842782d160
+DESCRIPTION:Film info: /films/four-daughters-eng-subs\nTickets: https://ti
+ ckets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002
+ 389\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rising Forest
+DTSTART;VALUE=DATE:20240417T191500
+DTEND;VALUE=DATE:20240417T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:0fbb011a-3c59-4035-9d26-dbe97d3db98d
+DESCRIPTION:Film info: /films/the-rising-forest\nTickets: https://tickets.
+ kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999424\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger Stripes (ENG subs)
+DTSTART;VALUE=DATE:20240417T210000
+DTEND;VALUE=DATE:20240417T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:67c26c26-e312-4741-97d0-80b4582c31b3
+DESCRIPTION:Film info: /films/tiger-stripes-eng-subs\nTickets: https://tic
+ kets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/10023
+ 93\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;VALUE=DATE:20240417T211500
+DTEND;VALUE=DATE:20240417T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:f6634cd0-fe7b-471e-b570-78a9d7fdebb8
+DESCRIPTION:Film info: /films/civil-war\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002051\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART;VALUE=DATE:20240417T213000
+DTEND;VALUE=DATE:20240417T230000
+DTSTAMP;VALUE=DATE:20240410
+UID:d968cf0d-377f-4072-8338-318cb72a07ca
+DESCRIPTION:Film info: /films/dream-scenario\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002131\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:78 days
+DTSTART;VALUE=DATE:20240420T150000
+DTEND;VALUE=DATE:20240420T163000
+DTSTAMP;VALUE=DATE:20240410
+UID:48d10db6-060e-48eb-a7ee-e7f8efaa25ff
+DESCRIPTION:Film info: /films/78-days\nTickets: https://tickets.kriterion.
+ nl/kriterion/nl/flow_configs/webshop/steps/start/show/980536\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Querelle
+DTSTART;VALUE=DATE:20240420T163000
+DTEND;VALUE=DATE:20240420T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:4e672001-cb59-4d26-af6a-75f630d213a5
+DESCRIPTION:Film info: /films/querelle\nTickets: https://tickets.kriterion
+ .nl/kriterion/nl/flow_configs/webshop/steps/start/show/996633\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trailer Park Boys: The Movie
+DTSTART;VALUE=DATE:20240420T204500
+DTEND;VALUE=DATE:20240420T221500
+DTSTAMP;VALUE=DATE:20240410
+UID:ee201b1b-5bec-422e-9050-00f87c3481b2
+DESCRIPTION:Film info: /films/trailer-park-boys-the-movie\nTickets: https:
+ //tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/
+ 1000464\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liquid Sky
+DTSTART;VALUE=DATE:20240420T001500
+DTEND;VALUE=DATE:20240420T014500
+DTSTAMP;VALUE=DATE:20240410
+UID:d4de166c-c057-4750-86c0-32c2ac533fba
+DESCRIPTION:Film info: /films/liquid-sky\nTickets: https://tickets.kriteri
+ on.nl/kriterion/nl/flow_configs/webshop/steps/start/show/999647\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Dead II + Un chien andalou 
+DTSTART;VALUE=DATE:20240421T121000
+DTEND;VALUE=DATE:20240421T134000
+DTSTAMP;VALUE=DATE:20240410
+UID:73ba9b8f-a14f-4776-94b1-0ff595c4669e
+DESCRIPTION:Film info: /films/evil-dead-ii-un-chien-andalou\nTickets: http
+ s://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/sho
+ w/1002378\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Good\, the Bad and the Ugly 
+DTSTART;VALUE=DATE:20240421T142000
+DTEND;VALUE=DATE:20240421T155000
+DTSTAMP;VALUE=DATE:20240410
+UID:cb63d6d4-4379-4af7-8a66-94b87779c592
+DESCRIPTION:Film info: /films/the-good-the-bad-and-the-ugly\nTickets: http
+ s://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/sho
+ w/1002392\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Messiah of Evil 
+DTSTART;VALUE=DATE:20240421T173500
+DTEND;VALUE=DATE:20240421T190500
+DTSTAMP;VALUE=DATE:20240410
+UID:7796633b-c141-45f8-b507-b00235874f0d
+DESCRIPTION:Film info: /films/messiah-of-evil\nTickets: https://tickets.kr
+ iterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002399\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hereditary 
+DTSTART;VALUE=DATE:20240421T193500
+DTEND;VALUE=DATE:20240421T210500
+DTSTAMP;VALUE=DATE:20240410
+UID:ada33363-009c-4e34-976e-34793017c2a8
+DESCRIPTION:Film info: /films/hereditary\nTickets: https://tickets.kriteri
+ on.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002400\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wailing
+DTSTART;VALUE=DATE:20240421T220500
+DTEND;VALUE=DATE:20240421T233500
+DTSTAMP;VALUE=DATE:20240410
+UID:c1cff5c5-33f6-4388-8bb4-e1b5b7eca822
+DESCRIPTION:Film info: /films/the-wailing\nTickets: https://tickets.kriter
+ ion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1002414\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nowhere
+DTSTART;VALUE=DATE:20240422T210000
+DTEND;VALUE=DATE:20240422T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:f037f1d6-f13d-4833-91c5-c57248e3add2
+DESCRIPTION:Film info: /films/nowhere\nTickets: https://tickets.kriterion.
+ nl/kriterion/nl/flow_configs/webshop/steps/start/show/997275\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Little Women
+DTSTART;VALUE=DATE:20240424T191500
+DTEND;VALUE=DATE:20240424T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:dffa08ac-1cff-4f68-b8d3-75f408541b51
+DESCRIPTION:Film info: /films/big-little-women\nTickets: https://tickets.k
+ riterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/993114\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project X
+DTSTART;VALUE=DATE:20240424T211500
+DTEND;VALUE=DATE:20240424T224500
+DTSTAMP;VALUE=DATE:20240410
+UID:edeabc26-dce7-4192-a041-fffeeb79c632
+DESCRIPTION:Film info: /films/project-x\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/996546\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:78 days
+DTSTART;VALUE=DATE:20240425T170000
+DTEND;VALUE=DATE:20240425T183000
+DTSTAMP;VALUE=DATE:20240410
+UID:8299042d-3b9f-4bf3-b2fc-5f654e854959
+DESCRIPTION:Film info: /films/78-days\nTickets: https://tickets.kriterion.
+ nl/kriterion/nl/flow_configs/webshop/steps/start/show/980537\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Querelle
+DTSTART;VALUE=DATE:20240429T210000
+DTEND;VALUE=DATE:20240429T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:b3757b67-7b0e-4f80-ac64-834e2c673e77
+DESCRIPTION:Film info: /films/querelle\nTickets: https://tickets.kriterion
+ .nl/kriterion/nl/flow_configs/webshop/steps/start/show/996634\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pink Flamingos
+DTSTART;VALUE=DATE:20240504T001500
+DTEND;VALUE=DATE:20240504T014500
+DTSTAMP;VALUE=DATE:20240410
+UID:b780f0e0-fa42-48c3-9c1e-85b608b23393
+DESCRIPTION:Film info: /films/pink-flamingos\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/993308\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Colour of the Pomegranates
+DTSTART;VALUE=DATE:20240506T210000
+DTEND;VALUE=DATE:20240506T223000
+DTSTAMP;VALUE=DATE:20240410
+UID:8d8850a9-8979-4b4d-b4cc-abf8f32a21fe
+DESCRIPTION:Film info: /films/the-colour-of-the-pomegranates\nTickets: htt
+ ps://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/sh
+ ow/996543\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Formula
+DTSTART;VALUE=DATE:20240508T191500
+DTEND;VALUE=DATE:20240508T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:072f7a7e-1893-4b05-85ee-bd44a5a3bc1c
+DESCRIPTION:Film info: /films/guardians-of-the-formula\nTickets: https://t
+ ickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/993
+ 251\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dilli Dark
+DTSTART;VALUE=DATE:20240509T191500
+DTEND;VALUE=DATE:20240509T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:c20ceed7-5821-4eea-a6f4-6551e4de1bb0
+DESCRIPTION:Film info: /films/dilli-dark\nTickets: https://tickets.kriteri
+ on.nl/kriterion/nl/flow_configs/webshop/steps/start/show/993252\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disco Boy
+DTSTART;VALUE=DATE:20240510T191500
+DTEND;VALUE=DATE:20240510T204500
+DTSTAMP;VALUE=DATE:20240410
+UID:8927119a-dc8a-471f-a009-feef15ceb138
+DESCRIPTION:Film info: /films/disco-boy\nTickets: https://tickets.kriterio
+ n.nl/kriterion/nl/flow_configs/webshop/steps/start/show/993253\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Colour of the Pomegranates
+DTSTART;VALUE=DATE:20240518T163000
+DTEND;VALUE=DATE:20240518T180000
+DTSTAMP;VALUE=DATE:20240410
+UID:6c3c1f8c-8192-45a5-9258-6a6c35e2fbf0
+DESCRIPTION:Film info: /films/the-colour-of-the-pomegranates\nTickets: htt
+ ps://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/sh
+ ow/996544\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pink Flamingos
+DTSTART;VALUE=DATE:20240518T001500
+DTEND;VALUE=DATE:20240518T014500
+DTSTAMP;VALUE=DATE:20240410
+UID:7e98369d-2675-487c-91ac-de72f2a68689
+DESCRIPTION:Film info: /films/pink-flamingos\nTickets: https://tickets.kri
+ terion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/993310\n
+LOCATION:Kriterion\nRoetersstraat 170\, 1018 WE Amsterdam\, Netherland
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
